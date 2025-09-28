@@ -1,5 +1,21 @@
+##  From Performance to Structure: Metasurface Imaging Review
+
+![cover](Image/Figure 1.jpg)  *A unified "from performance to structure" framework for next-generation metasurface imaging (Figure adapted from our review).*
 
 ---
+
+## 📖 About This Repository
+This repository accompanies our review published in *npj Nanophotonics (2025)*:
+
+**From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging**  
+DOI: [10.1038/s44310-025-00081-6](https://doi.org/10.1038/s44310-025-00081-6)
+
+Metasurface technology enables unprecedented control of electromagnetic responses on a subwavelength scale, offering transformative opportunities for imaging.  In this review, we introduce a **"from performance to structure" design paradigm**: starting from essential imaging specifications, translating them into electromagnetic requirements, and mapping them onto specialized metasurface structures.  Artificial intelligence (AI) serves as a unifying thread, empowering **inverse design, computational reconstruction, and multi-objective optimization**.  This repository provides a **continuously updated collection of papers, tools, and datasets** aligned with our survey, serving as a long-term knowledge hub for the metasurface and imaging community.  
+
+---
+
+## 📂 Research Domains Covered
+We categorize the role of metasurfaces in **nine key imaging domains**:
 
 ### 1. Chromatic Aberration Correction
 ![](Image/chromatic_aberration_correction.png)  
@@ -251,3 +267,24 @@
 14. Joo, W.-J. et al. Metasurface-driven OLED displays beyond 10,000 pixels per inch. *Science* **370**, 459–463 (2020). [*(paper)*](https://doi.org/10.1126/science.abc8530)
 15. Pahlevaninezhad, H. et al. Nano-optic endoscope for high-resolution optical coherence tomography in vivo. *Nat. Photonics* **12**, 540–547 (2018). [*(paper)*](https://doi.org/10.1038/s41566-018-0224-2)
 16. Colburn, S., Zhan, A. & Majumdar, A. Metasurface optics for full-color computational imaging. *Sci. Adv.* **4**, eaar2114 (2018). [*(paper)*](https://doi.org/10.1126/sciadv.aar2114)
+
+
+
+## 📖 How to Cite
+
+If you find this repository useful, please cite our review:
+
+> Zeng, Y., Zhong, H., Long, Z., Cao, H., & Jin, X.  
+> From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging.  
+> *npj Nanophotonics* (2025). https://doi.org/10.1038/s44310-025-00081-6
+
+### BibTeX
+```bibtex
+@article{zeng2025performance,
+  title={From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},
+  author={Zeng, Yunhui and Zhong, Haopeng and Long, Zhenwei and Cao, Hongkun and Jin, Xin},
+  journal={npj Nanophotonics},
+  year={2025},
+  publisher={Nature Publishing Group},
+  doi={10.1038/s44310-025-00081-6}
+}xxxxxxxxxx @article{zeng2025performance,  title={From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},  author={Zeng, Yunhui and Zhong, Haopeng and Long, Zhenwei and Cao, Hongkun and Jin, Xin},  journal={npj Nanophotonics},  year={2025},  publisher={Nature Publishing Group},  doi={10.1038/s44310-025-00081-6}}bibtex
