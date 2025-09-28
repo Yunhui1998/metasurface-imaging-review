@@ -1,6 +1,6 @@
 ##  From Performance to Structure: Metasurface Imaging Review
 
-![cover](Image/Figure 1.jpg)  *A unified "from performance to structure" framework for next-generation metasurface imaging (Figure adapted from our review).*
+![](Image/Figure 1.jpg)  *A unified "from performance to structure" framework for next-generation metasurface imaging (Figure adapted from our review).*
 
 ---
 
