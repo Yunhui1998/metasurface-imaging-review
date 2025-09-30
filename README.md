@@ -14,6 +14,19 @@ Metasurface technology enables unprecedented control of electromagnetic response
 
 ---
 
+### 📂 Batch Download of References
+
+To facilitate reproducibility and streamline literature access, we provide a utility script **`download.py`** under the `Tools/` directory. This script automatically parses the reference entries listed in the `README.md` file and attempts to batch-download the corresponding PDF documents (subject to network access permissions).  
+
+All successfully retrieved PDFs will be organized into their corresponding category folders, ensuring a structured and easily navigable reference library. In cases where certain downloads fail, the script will generate a log file so that users can manually inspect and retrieve the missing documents if needed.  
+
+**Usage:**  
+```bash
+python download.py
+```
+
+---
+
 ## 📂 Research Domains Covered
 We categorize the role of metasurfaces in **nine key imaging domains**:
 
