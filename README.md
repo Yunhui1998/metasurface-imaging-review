@@ -1,12 +1,63 @@
-##  From Performance to Structure: Metasurface Imaging Review
 
+<h1 align="center">
+  <strong>
+    From Performance to Structure: A Comprehensive Survey of Advanced Metasurface Design for Next-Generation Imaging
+  </strong>
+</h1>
+
+<h3 align="center">
+  <em>npj Nanophotonics 2, 39 (2025)</em>  
+</h3>
+
+<p align="center">
+  <a href="https://yunhui1998.github.io/metasurface-imaging-review/">Project Page</a> |
+  <a href="https://www.nature.com/articles/s44310-025-00081-6">Journal Page</a> |
+  <a href="https://doi.org/10.1038/s44310-025-00081-6">DOI</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Yunhui1998">Yunhui Zeng</a>,
+  <a href="#">Haopeng Zhong</a>,
+  <a href="#">Zhenwei Long</a>,
+  <a href="#">Hongkun Cao</a>,
+  <a href="https://www.sigs.tsinghua.edu.cn/jx/main.htm">Xin Jin*</a>
+</p>
+
+
+<p align="center">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Yunhui1998/metasurface-imaging-review?style=social">
+  <img alt="Forks" src="https://img.shields.io/github/forks/Yunhui1998/metasurface-imaging-review">
+  <img alt="Issues" src="https://img.shields.io/github/issues/Yunhui1998/metasurface-imaging-review">
+</p>
 ![Overview](Image/Overview.jpg)
 
 A unified "from performance to structure" framework for next-generation metasurface imaging (Figure adapted from our review).
 
 ---
 
+## 📖 How to Cite
+
+If you find this repository useful, please leave a star⭐️⭐️⭐️ and cite our paper:
+
+> Zeng, Y., Zhong, H., Long, Z. *et al.* From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging. *npj Nanophoton.* **2**, 39 (2025). https://doi.org/10.1038/s44310-025-00081-6
+
+If you are preparing a manuscript or report in **LaTeX**, you can add the following **BibTeX** entry to your bibliography file:
+
+```bibtex
+@article{Zeng2025_PerformanceToStructure,
+  author    = {Yunhui Zeng and Haopeng Zhong and Zhenwei Long and Hongkun Cao and Xin Jin},
+  title     = {From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},
+  journal   = {npj Nanophotonics},
+  year      = {2025},
+  volume    = {2},
+  pages     = {39},        
+  doi       = {10.1038/s44310-025-00081-6},
+  url       = {https://doi.org/10.1038/s44310-025-00081-6},
+  publisher = {Nature Publishing Group}
+}
+```
+
 ## 📖 About This Repository
+
 This repository accompanies our review published in *npj Nanophotonics (2025)*:
 
 **From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging**  
@@ -16,7 +67,7 @@ Metasurface technology enables unprecedented control of electromagnetic response
 
 ---
 
-### 📂 Batch Download of References
+## 📂 Batch Download of References
 
 To facilitate reproducibility and streamline literature access, we provide a utility script **`download.py`** under the `Tools/` directory. This script automatically parses the reference entries listed in the `README.md` file and attempts to batch-download the corresponding PDF documents (subject to network access permissions).  
 
@@ -285,21 +336,4 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 
 
 
-## 📖 How to Cite
-
-If you find this repository useful, please cite our review:
-
-> Zeng, Y., Zhong, H., Long, Z., Cao, H., & Jin, X.  
-> From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging.  
-> *npj Nanophotonics* (2025). https://doi.org/10.1038/s44310-025-00081-6
-
-### BibTeX
-```bibtex
-@article{zeng2025performance,
-  title={From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},
-  author={Zeng, Yunhui and Zhong, Haopeng and Long, Zhenwei and Cao, Hongkun and Jin, Xin},
-  journal={npj Nanophotonics},
-  year={2025},
-  publisher={Nature Publishing Group},
-  doi={10.1038/s44310-025-00081-6}
-}xxxxxxxxxx @article{zeng2025performance,  title={From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},  author={Zeng, Yunhui and Zhong, Haopeng and Long, Zhenwei and Cao, Hongkun and Jin, Xin},  journal={npj Nanophotonics},  year={2025},  publisher={Nature Publishing Group},  doi={10.1038/s44310-025-00081-6}}bibtex
+[![Star History Chart](https://api.star-history.com/svg?repos=Yunhui1998/metasurface-imaging-review&type=Date)](https://star-history.com/#Yunhui1998/metasurface-imaging-review)
