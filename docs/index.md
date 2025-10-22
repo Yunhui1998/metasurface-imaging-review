@@ -1,28 +1,36 @@
----
-# This file is rendered by GitHub Pages (Jekyll). No need to edit front matter.
----
+
+<h1 align="center">
+  <strong>From Performance to Structure: A Comprehensive Survey of Advanced Metasurface Design for Next-Generation Imaging</strong>
+</h1>
+
+<h3 align="center">
+  <em>npj Nanophotonics 2, 39 (2025)</em>
+</h3>
+<p align="center">
+  <a href="https://github.com/Yunhui1998/metasurface-imaging-review">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github&style=flat-square" alt="GitHub Repo">
+  </a>
+  <a href="https://www.nature.com/articles/s44310-025-00081-6">
+    <img src="https://img.shields.io/badge/npj-Nanophotonics-blue?style=flat-square" alt="npj Nanophotonics">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yunhui1998">Yunhui Zeng</a>,
+  <a href="#">Haopeng Zhong</a>,
+  <a href="#">Zhenwei Long</a>,
+  <a href="#">Hongkun Cao</a>,
+  <a href="https://www.sigs.tsinghua.edu.cn/jx/main.htm">Xin Jin*</a>
+</p>
+
 
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/Yunhui1998/metasurface-imaging-review?style=social">
   <img alt="Forks" src="https://img.shields.io/github/forks/Yunhui1998/metasurface-imaging-review">
   <img alt="Issues" src="https://img.shields.io/github/issues/Yunhui1998/metasurface-imaging-review">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yunhui1998/metasurface-imaging-review">
-</p>
-
-<p align="center">
-  <a href="https://star-history.com/#Yunhui1998/metasurface-imaging-review">
-    <img alt="Star History"
-         src="https://api.star-history.com/svg?repos=Yunhui1998/metasurface-imaging-review&type=Date">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yunhui1998/metasurface-imaging-review">Back to GitHub Repo</a>
 </p>
 
 ---
-
-##  From Performance to Structure: Metasurface Imaging Review
 
 ![Overview](assets/Overview.jpg)
 
@@ -30,13 +38,8 @@ A unified "from performance to structure" framework for next-generation metasurf
 
 ---
 
-## 📖 About This Repository
-This repository accompanies our review published in *npj Nanophotonics (2025)*:
-
-**From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging**  
-DOI: [10.1038/s44310-025-00081-6](https://doi.org/10.1038/s44310-025-00081-6)
-
-Metasurface technology enables unprecedented control of electromagnetic responses on a subwavelength scale, offering transformative opportunities for imaging.  In this review, we introduce a **"from performance to structure" design paradigm**: starting from essential imaging specifications, translating them into electromagnetic requirements, and mapping them onto specialized metasurface structures.  Artificial intelligence (AI) serves as a unifying thread, empowering **inverse design, computational reconstruction, and multi-objective optimization**.  This repository provides a **continuously updated collection of papers, tools, and datasets** aligned with our survey, serving as a long-term knowledge hub for the metasurface and imaging community.  
+## 📖 Abstract
+This review introduces a ‘from performance to structure’ imaging metasurface design paradigm, which starts with essential imaging specifications and translates them into corresponding electromagnetic requirements. These requirements are then mapped onto specialized metasurface microstructures, ensuring precise electromagnetic response control. Artificial intelligence (AI) serves as a unifying thread by accelerating inverse design through efficient navigation of high-dimensional parameter spaces and by enhancing imaging performance via AI-driven computational reconstruction algorithms. We synthesize the remarkable performance of metasurfaces across six electromagnetic response control methods in nine imaging domains and categorize three main design approaches—physically-driven, meta-heuristic, and AI-driven methods—while providing a detailed analysis of six primary encoding and decoding strategies and eight common AI techniques. Additionally, nine prospective research directions are highlighted. The review emphasizes that future metasurface imaging systems will leverage electromagnetic response control to link performance with metasurface structure, with AI technology playing a central role in this process.
 
 ---
 
@@ -325,27 +328,37 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 15.  Pahlevaninezhad, H. et al. Nano-optic endoscope for high-resolution optical coherence tomography in vivo. *Nat. Photonics* **12**, 540–547 (2018). [*(paper)*](https://doi.org/10.1038/s41566-018-0224-2)
 16.  Colburn, S., Zhan, A. & Majumdar, A. Metasurface optics for full-color computational imaging. *Sci. Adv.* **4**, eaar2114 (2018). [*(paper)*](https://doi.org/10.1126/sciadv.aar2114)
 
-
-
 ## 📖 How to Cite
 
-If you find this repository useful, please cite our review:
+If you find this repository useful, please leave a star⭐️⭐️⭐️ and cite our paper:
 
-> Zeng, Y., Zhong, H., Long, Z., Cao, H., & Jin, X.  
-> From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging.  
-> *npj Nanophotonics* (2025). https://doi.org/10.1038/s44310-025-00081-6
+> Zeng, Y., Zhong, H., Long, Z. *et al.* From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging. *npj Nanophoton.* **2**, 39 (2025). https://doi.org/10.1038/s44310-025-00081-6
 
-### BibTeX
+If you are preparing a manuscript or report in **LaTeX**, you can add the following **BibTeX** entry to your bibliography file:
+
+#### BibTeX
 
 ```bibtex
-@article{zeng2025performance,
-  title={From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},
-  author={Zeng, Yunhui and Zhong, Haopeng and Long, Zhenwei and Cao, Hongkun and Jin, Xin},
-  journal={npj Nanophotonics},
-  year={2025},
-  publisher={Nature Publishing Group},
-  doi={10.1038/s44310-025-00081-6}
-}xxxxxxxxxx @article{zeng2025performance,  title={From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},  author={Zeng, Yunhui and Zhong, Haopeng and Long, Zhenwei and Cao, Hongkun and Jin, Xin},  journal={npj Nanophotonics},  year={2025},  publisher={Nature Publishing Group},  doi={10.1038/s44310-025-00081-6}}bibtex
+@article{Zeng2025_PerformanceToStructure,
+  author    = {Yunhui Zeng and Haopeng Zhong and Zhenwei Long and Hongkun Cao and Xin Jin},
+  title     = {From performance to structure: a comprehensive survey of advanced metasurface design for next-generation imaging},
+  journal   = {npj Nanophotonics},
+  year      = {2025},
+  volume    = {2},
+  pages     = {39},        
+  doi       = {10.1038/s44310-025-00081-6},
+  url       = {https://doi.org/10.1038/s44310-025-00081-6},
+  publisher = {Nature Publishing Group}
+}
 
 ```
 
+---
+
+<!-- 🌍 Global Visitors Map -->
+<h2>🌍 Global Visitors Map</h2>
+<p align="center">
+  <script type="text/javascript" id="mapmyvisitors"
+          src="//mapmyvisitors.com/map.js?d=PzyEtwqPyPFjmE0owZKvAmJsED72r2KZTHHmqZp9NBQ&cl=ffffff&w=a">
+  </script>
+</p>

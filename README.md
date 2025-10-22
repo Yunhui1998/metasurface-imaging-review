@@ -8,12 +8,11 @@
 <h3 align="center">
   <em>npj Nanophotonics 2, 39 (2025)</em>  
 </h3>
-
 <p align="center">
   <a href="https://yunhui1998.github.io/metasurface-imaging-review/">Project Page</a> |
-  <a href="https://www.nature.com/articles/s44310-025-00081-6">Journal Page</a> |
-  <a href="https://doi.org/10.1038/s44310-025-00081-6">DOI</a>
+  <a href="https://www.nature.com/articles/s44310-025-00081-6">Paper Page</a> 
 </p>
+
 <p align="center">
   <a href="https://github.com/Yunhui1998">Yunhui Zeng</a>,
   <a href="#">Haopeng Zhong</a>,
