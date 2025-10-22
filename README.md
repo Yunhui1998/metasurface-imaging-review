@@ -27,7 +27,7 @@
   <img alt="Forks" src="https://img.shields.io/github/forks/Yunhui1998/metasurface-imaging-review">
   <img alt="Issues" src="https://img.shields.io/github/issues/Yunhui1998/metasurface-imaging-review">
 </p>
-![Overview](Image/Overview.jpg)
+![Overview](docs/assets/Overview.jpg)
 
 A unified "from performance to structure" framework for next-generation metasurface imaging (Figure adapted from our review).
 
@@ -68,22 +68,39 @@ Metasurface technology enables unprecedented control of electromagnetic response
 
 ## 📂 Batch Download of References
 
-To facilitate reproducibility and streamline literature access, we provide a utility script **`download.py`** under the `Tools/` directory. This script automatically parses the reference entries listed in the `README.md` file and attempts to batch-download the corresponding PDF documents (subject to network access permissions).  
+o make reproduction and literature access easier, this repository ships a utility script **`Tools/download.py`** that parses the paper list block in `README.md`, extracts all `[* (paper) *](https://doi.org/...)` links, resolves publisher-specific PDF URLs (Nature/ACS/Wiley/Springer/Elsevier/De Gruyter/Optica/AIP/IOP/IEEE/MDPI/RSC/T&F), and downloads the papers in batch.
 
-All successfully retrieved PDFs will be organized into their corresponding category folders, ensuring a structured and easily navigable reference library. In cases where certain downloads fail, the script will generate a log file so that users can manually inspect and retrieve the missing documents if needed.  
+> **Access requirement:** Many publishers (e.g., ACS, Wiley, Elsevier, Taylor & Francis) serve PDFs only to authenticated networks (institutional subscriptions, VPN, or logged-in sessions). Run this script **from a network with access rights** (e.g., campus network/VPN). The script detects PDFs by content-type; if the publisher redirects to a login page, the attempt is recorded as a failure. You can then fetch such items manually (see *Failure log* below).
 
-**Usage:**  
-```bash
-python download.py
-```
+**⚙️ Requirements and Usage**
 
----
+- Python **3.9+**
+
+- Install dependencies:
+
+  ```
+  pip install requests beautifulsoup4 python-slugify urllib3
+  cd Tools
+  python download.py
+  ```
+
+Optional arguments:
+
+- `--workers` : number of parallel downloads (default 6)
+- `--readme`  : path to README file (default ../README.md)
+- `--outdir`  : output directory (default ../downloaded_papers)
+
+**📁 Output**
+
+- PDFs saved under: `downloaded_papers/<Section>/<YEAR>_<JOURNAL>_<TITLE>.pdf`
+- Failed downloads logged to: `downloaded_papers/_reports/failures.csv`
+   (columns: section, title, DOI URL)
 
 ## 📂 Research Domains Covered
 We categorize the role of metasurfaces in **nine key imaging domains**:
 
 ### 1. Chromatic Aberration Correction
-![](Image/chromatic_aberration_correction.png)  
+![](docs/assets/chromatic_aberration_correction.png)  
 
 1.  Chen, J. et al. 3d-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture. *Nat. Commun.* **16**, 363 (2025). [*(paper)*](https://doi.org/10.1038/s41467-024-55624-w)
 2.  You, X., Ako, R. T., Sriram, S. & Withayachumanakul, W. 3d terahertz confocal imaging with chromatic metasurface. *Laser Photonics Rev.* **19**, 2401011 (2025). [*(paper)*](https://doi.org/10.1002/lpor.202401011)
@@ -116,7 +133,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 ---
 
 ### 2. Field of View Expansion
-![](Image/view_expansion.png)  
+![](docs/assets/view_expansion.png)  
 
 1.  Wirth-Singh, A. et al. Wide field of view large aperture meta-doublet eyepiece. *Light Sci. Appl.* **14**, 17 (2025). [*(paper)*](https://doi.org/10.1038/s41377-024-01674-0)
 2.  Liu, Y. et al. Ultra-wide for meta-camera with transformer-neural-network color imaging methodology. *Adv. Photonics* **6**, 056001 (2024). [*(paper)*](https://doi.org/10.1117/1.AP.6.5.056001)
@@ -135,7 +152,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 15. Arbabi, A. et al. Miniature optical planar camera based on a wide-angle metasurface doublet corrected for monochromatic aberrations. *Nat. Commun.* **7**, 13682 (2016). [*(paper)*](https://doi.org/10.1038/ncomms13682)
 ---
 ### 3. Depth of Field Extension
-![](Image/depth_of_field.png)  
+![](docs/assets/depth_of_field.png)  
 1.  Ansari, M. A. et al. Multifaceted control of focal points along an arbitrary 3d curved trajectory. *Light Sci. Appl.* **13**, 224 (2024). [*(paper)*](https://doi.org/10.1038/s41377-024-01565-4)
 2.  Liu, X. et al. Underwater binocular meta-lens. *ACS Photonics* **10**, 2382–2389 (2023). [*(paper)*](https://doi.org/10.1021/acsphotonics.2c01667)
 3.  Yin, B. & Wang, S. Research and design of a metasurface with an extended depth of focus in the near field. *Appl. Opt.* **62**, 7621–7627 (2023). [*(paper)*](https://doi.org/10.1364/AO.500686)
@@ -152,7 +169,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 
 ---
 ### 4. Resolution Enhancement
-![](Image/resolution_enhancement.png)  
+![](docs/assets/resolution_enhancement.png)  
 1.  Basak, S. et al. Super-resolution optical fluctuation imaging. *Nat. Photonics* **19**, 229–237 (2025). [*(paper)*](https://doi.org/10.1038/s41566-024-01571-3)
 2.  Zhou, Q. et al. Far-field phase-shifting structured light illumination enabled by polarization multiplexing metasurface for super-resolution imaging. *Nano Lett.* **24**, 11036–11042 (2024). [*(paper)*](https://doi.org/10.1021/acs.nanolett.4c03142)
 3.  Wang, J. et al. Quantitative phase imaging with a compact metamicroscope. *npj Nanophotonics* **1**, 4 (2024). [*(paper)*](https://doi.org/10.1038/s44310-024-00007-8)
@@ -178,7 +195,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 
 ---
 ### 5. Multidimensional Data Capture
-![](Image/multidimensional_data_capture.png)  
+![](docs/assets/multidimensional_data_capture.png)  
 
 1. Fu, B. et al. Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging. *Optica* **12**, 391–398 (2025). [*(paper)*](https://doi.org/10.1364/OPTICA.549864)
 2. Zhao, Z. et al. Hyperspectral metachip-based 3d spatial map for cancer cell screening and quantification. *Adv. Mater.* **37**, 2412738 (2025). [*(paper)*](https://doi.org/10.1002/adma.202412738)
@@ -215,7 +232,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 ---
 
 ### 6. Optical Feature Enhancement
-![](Image/feature_enhancement.png)
+![](docs/assets/feature_enhancement.png)
 1. Bi, X. et al. Concurrent image differentiation and integration processings enabled by polarization-multiplexed metasurface. *Laser Photonics Rev.* **19**, 2400718 (2025). [*(paper)*](https://doi.org/10.1002/lpor.202400718)
 2. Zhu, Y. et al. On-site quantitative detection of fentanyl in heroin by machine learning-enabled sensors on super absorbing metasurfaces. *npj Nanophotonics* **2**, 7 (2025). [*(paper)*](https://doi.org/10.1038/s44310-025-00055-8)
 3. Swartz, B. T., Zheng, H., Forcherio, G. T. & Valentine, J. Broadband and large-aperture metasurface edge encoders for incoherent infrared radiation. *Sci. Adv.* **10**, eadk0024 (2024). [*(paper)*](https://doi.org/10.1126/sciadv.adk0024)
@@ -238,7 +255,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 ---
 
 ### 7. Holographic Field Reconstruction
-![](Image/holographic_field_reconstruction.png)
+![](docs/assets/holographic_field_reconstruction.png)
 1. Aththanayake, A. et al. Tunable holographic metasurfaces for augmented and virtual reality. *Nanophotonics* (2025). [*(paper)*](https://doi.org/10.1515/nanoph-2024-0734)
 2. Jue, J. et al. Three-photon direct laser writing of the qd-polymer metasurface for large field-of-view optical holography. *ACS Appl. Mater. Interfaces* **17**, 14520–14526 (2025). [*(paper)*](https://doi.org/10.1021/acsami.4c21233)
 3. Meng, W. et al. Ultranarrow-linewidth wavelength-vortex metasurface holography. *Sci. Adv.* **11**, eadl9159 (2025). [*(paper)*](https://doi.org/10.1126/sciadv.adt9159)
@@ -279,7 +296,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 ---
 
 ### 8. Functional Integration
-![](Image/functional_integration.png)
+![](docs/assets/functional_integration.png)
 1. Li, F. et al. Flexible intelligent microwave metasurface with shape-guided adaptive programming. *Nat. Commun.* **16**, 3161 (2025). [*(paper)*](https://doi.org/10.1038/s41467-025-58249-9)
 2. Yang, G. et al. Nonlocal phase-change meta-optics for reconfigurable nonvolatile image processing. *Light Sci. Appl.* **14**, 1–10 (2025). [*(paper)*](https://doi.org/10.1038/s41377-025-01841-x)
 3. Xing, Z. et al. Monolithic spin-multiplexing metalens for dual-functional imaging. *Laser Photonics Rev.* **19**, 2401993 (2025). [*(paper)*](https://doi.org/10.1002/lpor.202401993)
@@ -314,7 +331,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 ---
 
 ### 9. Compact Device Integration
-![](Image/compact_device_integration.png) 
+![](docs/assets/compact_device_integration.png) 
 
 1.  Bao, Y. & Li, B. Single-shot simultaneous intensity, phase, and polarization imaging with metasurface. *Natl. Sci. Rev.* **12**, nwae418 (2025). [*(paper)*](https://doi.org/10.1093/nsr/nwae418)
 2.  Chi, H. et al. Neural network-assisted end-to-end design for full light field control of meta-optics. *Adv. Mater.* **37**, 2419621 (2025). [*(paper)*](https://doi.org/10.1002/adma.202419621)

@@ -45,15 +45,11 @@ This review introduces a ‘from performance to structure’ imaging metasurface
 
 ### 📂 Batch Download of References
 
-To facilitate reproducibility and streamline literature access, we provide a utility script **`download.py`** under the `Tools/` directory. This script automatically parses the reference entries listed in the `README.md` file and attempts to batch-download the corresponding PDF documents (subject to network access permissions).  
+Our **[GitHub repository](https://github.com/Yunhui1998/metasurface-imaging-review)**provides a method for **batch downloading the referenced papers**. The utility script **`Tools/download.py`** automatically parses all reference entries in the `README.md` file and downloads the corresponding PDF files (subject to network access permissions).
 
-All successfully retrieved PDFs will be organized into their corresponding category folders, ensuring a structured and easily navigable reference library. In cases where certain downloads fail, the script will generate a log file so that users can manually inspect and retrieve the missing documents if needed.  
+Detailed instructions and usage examples are available in the GitHub repository:
 
-**Usage:**  
-
-```bash
-python download.py
-```
+👉 https://github.com/Yunhui1998/metasurface-imaging-review
 
 ## 📂 Research Domains Covered
 
