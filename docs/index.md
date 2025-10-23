@@ -1193,7 +1193,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Planar wide-angle-imaging camera enabled by metalens array.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1206,7 +1206,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Wide-angle imaging is an important function in photography and projection, but it also places high demands on the design of the imaging components of a camera. To eliminate the coma caused by the focusing of large-angle incident light, traditional wide-angle camera lenses are composed of complex optical components. Here, we propose a planar camera for wide-angle imaging with a silicon nitride metalens array mounted on a CMOS image sensor. By carefully designing proper phase profiles for metalenses with intentionally introduced shifted phase terms, the whole lens array is capable of capturing a scene with a large viewing angle and negligible distortion or aberrations. After a stitching process, we obtained a large viewing angle image with a range of >120°using a compact planar camera. Our device demonstrates the advantages of metalenses in flexible phase design and compact integration, and the prospects for future imaging technology.
      </p>
      <p style="
        color:#333333;
