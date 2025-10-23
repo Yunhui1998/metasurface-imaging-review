@@ -1049,7 +1049,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Wide field of view large aperture meta-doublet eyepiece.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1062,7 +1062,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Wide field of view and light weight optics are critical for advanced eyewear, with applications in augmented/virtual reality and night vision. Conventional refractive lenses are often stacked to correct aberrations at a wide field of view, leading to limited performance and increased size and weight. In particular, simultaneously achieving a wide field of view and large aperture for light collection is desirable but challenging to realize in a compact form-factor. Here, we demonstrate a wide field of view (greater than 60∘) meta-optic doublet eyepiece with an entrance aperture of 2.1 cm. At the design wavelength of 633 nm, the meta-optic doublet achieves comparable performance to a refractive lens-based eyepiece system. This meta-doublet eyepiece illustrates the potential for meta-optics to play an important role in the development of high-quality monochrome near-eye displays and night vision systems.
      </p>
      <p style="
        color:#333333;
@@ -1085,7 +1085,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Ultra-wide for meta-camera with transformer-neural-network color imaging methodology.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1098,7 +1098,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Planar cameras with high performance and wide field of view (FOV) are critical in various fields, requiring highly compact and integrated technology. Existing wide FOV metalenses show great potential for ultrathin optical components, but there is a set of tricky challenges, such as chromatic aberrations correction, central bright speckle removal, and image quality improvement of wide FOV. We design a neural meta-camera by introducing a knowledge-fused data-driven paradigm equipped with transformer-based network. Such a paradigm enables the network to sequentially assimilate the physical prior and experimental data of the metalens, and thus can effectively mitigate the aforementioned challenges. An ultra-wide FOV meta-camera, integrating an off-axis monochromatic aberration-corrected metalens with a neural CMOS image sensor without any relay lenses, is employed to demonstrate the availability. High-quality reconstructed results of color images and real scene images at different distances validate that the proposed meta-camera can achieve an ultra-wide FOV (>100deg) and full-color images with the correction of chromatic aberration, distortion, and central bright speckle, and the contrast increase up to 13.5 times. Notably, coupled with its compact size (<0.13cm<sup>3</sup>), portability, and full-color imaging capacity, the neural meta-camera emerges as a compelling alternative for applications, such as micro-navigation, micro-endoscopes, and various on-chip devices.
      </p>
      <p style="
        color:#333333;
