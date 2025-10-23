@@ -59,33 +59,75 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 
 ![](assets/chromatic_aberration_correction.png)  
 
-1.  Chen, J. et al. 3d-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture. *Nat. Commun.* **16**, 363 (2025). [*(paper)*](https://doi.org/10.1038/s41467-024-55624-w)
-2.  You, X., Ako, R. T., Sriram, S. & Withayachumanakul, W. 3d terahertz confocal imaging with chromatic metasurface. *Laser Photonics Rev.* **19**, 2401011 (2025). [*(paper)*](https://doi.org/10.1002/lpor.202401011)
-3.  Liu, M. et al. Achromatic and coma-corrected hybrid meta-optics for high-performance thermal imaging. *Nano Lett.* **24**, 7609–7615 (2024). [*(paper)*](https://doi.org/10.1021/acs.nanolett.4c01218)
-4.  Dong, Y. et al. Achromatic single metalens imaging via deep neural network. *ACS Photonics* **11**, 1645–1656 (2024). [*(paper)*](https://doi.org/10.1021/acsphotonics.3c01870)
-5.  He, H. et al. Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface. *Adv. Mater.* **36**, 2313357 (2024). [*(paper)*](https://doi.org/10.1002/adma.202313357)
-6.  Hsu, W.-L. et al. High-resolution metalens imaging with sequential artificial intelligence models. *Nano Lett.* **23**, 11614–11620 (2023). [*(paper)*](https://doi.org/10.1021/acs.nanolett.3c03416)
-7.  Wang, F., Zhao, S., Wen, Y., Sun, J. & Zhou, J. High efficiency visible achromatic metalens design via deep learning. *Adv. Opt. Mater.* **11**, 2300394 (2023). [*(paper)*](https://doi.org/10.1002/adom.202300394)
-8.  Xiao, X. et al. Large-scale achromatic flat lens by light frequency-domain coherence optimization. *Light Sci. Appl.* **11**, 323 (2022). [*(paper)*](https://doi.org/10.1038/s41377-022-01024-y)
-9.  Heiden, J. T. & Jang, M. S. Design framework for polarization-insensitive multifunctional achromatic metalenses. *Nanophotonics* **11**, 583–591 (2021). [*(paper)*](https://doi.org/10.1515//nanoph-2021-0638)
-10.  Bayati, E. et al. Inverse designed extended depth of focus meta-optics for broadband imaging in the visible. *Nanophotonics* **11**, 2531–2540 (2021). [*(paper)*](https://doi.org/10.1515/nanoph-2021-0431)
-11.  Wang, F. et al. Visible achromatic metalens design based on artificial neural network. *Adv. Opt. Mater.* **10**, 2101842 (2021). [*(paper)*](https://doi.org/10.1002/adom.202101842)
-12.  Wang, Y. et al. High-efficiency broadband achromatic metalens for near-IR biological imaging window. *Nat. Commun.* **12**, 5560 (2021). [*(paper)*](https://doi.org/10.1038/s41467-021-25797-9)
-13.  Ou, K. et al. Broadband achromatic metalens in mid-wavelength infrared. *Laser Photon. Rev.* **15**, 2100020 (2021). [*(paper)*](https://doi.org/10.1002/lpor.202100020)
-14.  Zang, W. et al. Chromatic dispersion manipulation based on metalenses. *Adv. Mater.* **32**, 1904935 (2020). [*(paper)*](https://doi.org/10.1002/adma.201904935)
-15.  McClung, A., Mansouree, M. & Arbabi, A. At-will chromatic dispersion by prescribing light trajectories with cascaded metasurfaces. *Light Sci. Appl.* **9**, 93 (2020). [*(paper)*](https://doi.org/10.1038/s41377-020-0335-7)
-16.  Ndao, A. et al. Octave bandwidth photonic fishnet-achromatic-metalens. *Nat. Commun.* **11**, 3205 (2020). [*(paper)*](https://doi.org/10.1038/s41467-020-17015-9)
-17.  Huang, L., Whitehead, J., Colburn, S. & Majumdar, A. Design and analysis of extended depth of focus metalenses for achromatic computational imaging. *Photonics Res.* **8**, 1613–1623 (2020). [*(paper)*](https://doi.org/10.1364/PRJ.396839)
-18.  Presutti, F. & Monticone, F. Focusing on bandwidth: achromatic metalens limits. *Optica* **7**, 624–631 (2020). [*(paper)*](https://doi.org/10.1364/OPTICA.389404)
-19.  Zhang, C. et al. Low-loss metasurface optics down to the deep ultraviolet region. *Light Sci. Appl.* **9**, 55 (2020). [*(paper)*](https://doi.org/10.1038/s41377-020-0287-y)
-20.  Chen, W. T., Zhu, A. Y., Sisler, J., Bharwani, Z. & Capasso, F. A broadband achromatic polarization-insensitive metalens consisting of anisotropic nanostructures. *Nat. Commun.* **10**, 355 (2019). [*(paper)*](https://doi.org/10.1038/s41467-019-08305-y)
-21.  Chen, W. T. et al. A broadband achromatic metalens for focusing and imaging in the visible. *Nat. Nanotechnol.* **13**, 220–226 (2018). [*(paper)*](https://doi.org/10.1038/s41565-017-0034-6)
-22.  Wang, S. et al. Broadband achromatic optical metasurface devices. *Nat. Commun.* **8**, 187 (2017). [*(paper)*](https://doi.org/10.1038/s41467-017-00166-7)
-23.  Khorasaninejad, M. et al. Achromatic metalens over 60 nm bandwidth in the visible and metalens with reverse chromatic dispersion. *Nano Lett.* **17**, 1819–1824 (2017). [*(paper)*](https://doi.org/10.1021/acs.nanolett.6b05137)
-24.  Avayu, O., Almeida, E., Prior, Y. & Ellenbogen, T. Composite functional metasurfaces for multispectral achromatic optics. *Nat. Commun.* **8**, 14992 (2017). [*(paper)*](https://doi.org/10.1038/ncomms14992)
-25.  Khorasaninejad, M. et al. Achromatic metasurface lens at telecommunication wavelengths. *Nano Lett.* **15**, 5358–5362 (2015). [*(paper)*](https://doi.org/10.1021/acs.nanolett.5b01727)
-26.  Akselrod, G. M. et al. Large-area metasurface perfect absorbers from visible to near-infrared. *Adv. Mater.* **27**, 8028–8024 (2015). [*(paper)*](https://doi.org/10.1002/adma.201503281)
-27.  Aieta, F. et al. Aberration-free ultrathin flat lenses and axicons at telecom wavelengths based on plasmonic metasurfaces. *Nano Lett.* **12**, 4932–4936 (2012). [*(paper)*](https://doi.org/10.1021/nl302516v)
+1. Chen, J. et al. 3d-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture. *Nat. Commun.* **16**, 363 (2025). [*(paper)*](https://doi.org/10.1038/s41467-024-55624-w)
+
+   <table>
+   <tr>
+   <td width="30%">
+     <img src="abstract image/3d-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture.png" width="100%" alt="Graphical abstract">
+   </td>
+   <td width="70%">
+     <p style="text-align: justify;">><b>Abstract (English):</b><br>
+     Terahertz (THz) lens constitutes a vital component in the THz system. Metasurfaces-based THz metalenses and classical bulky lenses are severely constrained by chromatic/ spherical aberration and the diffraction limit. Consequently, achromatic super-resolution THz lenses are urgently needed. In this study, through translating the required phase distribution into a refractive index (RI) profile with a specific thickness, an innovative approach to designing THz metalenses is proposed and achieved by dielectric gradient metamaterials. The samples fabricated by 3D printing can realize achromatic super focusing with a numerical aperture (NA) of 0.555 from 0.2 to 0.9 THz. Submillimeter features separated by approximately 0.2 mm can be resolved with high precision, such as glass fabric patterns within FR4 panels and fibrous tissue on leaves, with a field of view (FOV) of 90°. Our approach offers a feasible and cost-effective means to implement THz super-resolution imaging, which holds great potential in non-destructive testing and biomedical imaging.</p>
+     <p style="text-align: justify;">><b>摘要（中文）:</b><br>
+     在太赫兹成像系统中，传统透镜往往面临色差大、像差重、体积庞大的难题。介质透镜虽然可实现聚焦，但其分辨率受限且难以在高频下保持稳定成像；超表面金属透镜虽具备紧凑结构，却常常只能在窄频段内工作，无法同时消除色差与离轴像差。如何在宽频范围内实现高分辨率、超宽视场且无像差的太赫兹聚焦，一直是该领域面临的核心挑战。针对这一问题，香港城市大学太赫兹与毫米波国家重点实验室Chi Hou Chan团队提出了一种全新的设计理念：将金属透镜中所需的相位分布转化为等效的折射率分布，并通过径向渐变的介质超材料来实现对光线传播路径的连续调控。可以将这一思路理解为“为光波绘制一条在折射率中渐变的理想轨迹”，使其像在连续变化密度的介质中一样自然弯曲、无畸变地汇聚在同一焦点。研究团队利用高精度3D打印技术制备了这种渐变折射率超构透镜，实验证实其在0.2至0.9 THz的超宽频段内可实现数值孔径为0.555的消色差超聚焦，焦斑宽度仅约为0.8倍波长，聚焦效率稳定在80%左右。在±45°的入射角下仍能保持清晰成像，视场角达到90°，并成功解析出FR4电路板内部约0.2毫米的玻纤纹理和叶片的纤维组织，展现出优异的超分辨无像差成像能力。该成果以 3D-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture 为题，于2025年1月3日发表于《Nature Communications》。</p>
+   </td>
+   </tr>
+   </table>
+
+   </table>
+
+2. You, X., Ako, R. T., Sriram, S. & Withayachumanakul, W. 3d terahertz confocal imaging with chromatic metasurface. *Laser Photonics Rev.* **19**, 2401011 (2025). [*(paper)*](https://doi.org/10.1002/lpor.202401011)
+
+3. Liu, M. et al. Achromatic and coma-corrected hybrid meta-optics for high-performance thermal imaging. *Nano Lett.* **24**, 7609–7615 (2024). [*(paper)*](https://doi.org/10.1021/acs.nanolett.4c01218)
+
+4. Dong, Y. et al. Achromatic single metalens imaging via deep neural network. *ACS Photonics* **11**, 1645–1656 (2024). [*(paper)*](https://doi.org/10.1021/acsphotonics.3c01870)
+
+5. He, H. et al. Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface. *Adv. Mater.* **36**, 2313357 (2024). [*(paper)*](https://doi.org/10.1002/adma.202313357)
+
+6. Hsu, W.-L. et al. High-resolution metalens imaging with sequential artificial intelligence models. *Nano Lett.* **23**, 11614–11620 (2023). [*(paper)*](https://doi.org/10.1021/acs.nanolett.3c03416)
+
+7. Wang, F., Zhao, S., Wen, Y., Sun, J. & Zhou, J. High efficiency visible achromatic metalens design via deep learning. *Adv. Opt. Mater.* **11**, 2300394 (2023). [*(paper)*](https://doi.org/10.1002/adom.202300394)
+
+8. Xiao, X. et al. Large-scale achromatic flat lens by light frequency-domain coherence optimization. *Light Sci. Appl.* **11**, 323 (2022). [*(paper)*](https://doi.org/10.1038/s41377-022-01024-y)
+
+9. Heiden, J. T. & Jang, M. S. Design framework for polarization-insensitive multifunctional achromatic metalenses. *Nanophotonics* **11**, 583–591 (2021). [*(paper)*](https://doi.org/10.1515//nanoph-2021-0638)
+
+10. Bayati, E. et al. Inverse designed extended depth of focus meta-optics for broadband imaging in the visible. *Nanophotonics* **11**, 2531–2540 (2021). [*(paper)*](https://doi.org/10.1515/nanoph-2021-0431)
+
+11. Wang, F. et al. Visible achromatic metalens design based on artificial neural network. *Adv. Opt. Mater.* **10**, 2101842 (2021). [*(paper)*](https://doi.org/10.1002/adom.202101842)
+
+12. Wang, Y. et al. High-efficiency broadband achromatic metalens for near-IR biological imaging window. *Nat. Commun.* **12**, 5560 (2021). [*(paper)*](https://doi.org/10.1038/s41467-021-25797-9)
+
+13. Ou, K. et al. Broadband achromatic metalens in mid-wavelength infrared. *Laser Photon. Rev.* **15**, 2100020 (2021). [*(paper)*](https://doi.org/10.1002/lpor.202100020)
+
+14. Zang, W. et al. Chromatic dispersion manipulation based on metalenses. *Adv. Mater.* **32**, 1904935 (2020). [*(paper)*](https://doi.org/10.1002/adma.201904935)
+
+15. McClung, A., Mansouree, M. & Arbabi, A. At-will chromatic dispersion by prescribing light trajectories with cascaded metasurfaces. *Light Sci. Appl.* **9**, 93 (2020). [*(paper)*](https://doi.org/10.1038/s41377-020-0335-7)
+
+16. Ndao, A. et al. Octave bandwidth photonic fishnet-achromatic-metalens. *Nat. Commun.* **11**, 3205 (2020). [*(paper)*](https://doi.org/10.1038/s41467-020-17015-9)
+
+17. Huang, L., Whitehead, J., Colburn, S. & Majumdar, A. Design and analysis of extended depth of focus metalenses for achromatic computational imaging. *Photonics Res.* **8**, 1613–1623 (2020). [*(paper)*](https://doi.org/10.1364/PRJ.396839)
+
+18. Presutti, F. & Monticone, F. Focusing on bandwidth: achromatic metalens limits. *Optica* **7**, 624–631 (2020). [*(paper)*](https://doi.org/10.1364/OPTICA.389404)
+
+19. Zhang, C. et al. Low-loss metasurface optics down to the deep ultraviolet region. *Light Sci. Appl.* **9**, 55 (2020). [*(paper)*](https://doi.org/10.1038/s41377-020-0287-y)
+
+20. Chen, W. T., Zhu, A. Y., Sisler, J., Bharwani, Z. & Capasso, F. A broadband achromatic polarization-insensitive metalens consisting of anisotropic nanostructures. *Nat. Commun.* **10**, 355 (2019). [*(paper)*](https://doi.org/10.1038/s41467-019-08305-y)
+
+21. Chen, W. T. et al. A broadband achromatic metalens for focusing and imaging in the visible. *Nat. Nanotechnol.* **13**, 220–226 (2018). [*(paper)*](https://doi.org/10.1038/s41565-017-0034-6)
+
+22. Wang, S. et al. Broadband achromatic optical metasurface devices. *Nat. Commun.* **8**, 187 (2017). [*(paper)*](https://doi.org/10.1038/s41467-017-00166-7)
+
+23. Khorasaninejad, M. et al. Achromatic metalens over 60 nm bandwidth in the visible and metalens with reverse chromatic dispersion. *Nano Lett.* **17**, 1819–1824 (2017). [*(paper)*](https://doi.org/10.1021/acs.nanolett.6b05137)
+
+24. Avayu, O., Almeida, E., Prior, Y. & Ellenbogen, T. Composite functional metasurfaces for multispectral achromatic optics. *Nat. Commun.* **8**, 14992 (2017). [*(paper)*](https://doi.org/10.1038/ncomms14992)
+
+25. Khorasaninejad, M. et al. Achromatic metasurface lens at telecommunication wavelengths. *Nano Lett.* **15**, 5358–5362 (2015). [*(paper)*](https://doi.org/10.1021/acs.nanolett.5b01727)
+
+26. Akselrod, G. M. et al. Large-area metasurface perfect absorbers from visible to near-infrared. *Adv. Mater.* **27**, 8028–8024 (2015). [*(paper)*](https://doi.org/10.1002/adma.201503281)
+
+27. Aieta, F. et al. Aberration-free ultrathin flat lenses and axicons at telecom wavelengths based on plasmonic metasurfaces. *Nano Lett.* **12**, 4932–4936 (2012). [*(paper)*](https://doi.org/10.1021/nl302516v)
 
 ---
 
