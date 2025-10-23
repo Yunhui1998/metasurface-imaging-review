@@ -61,21 +61,40 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 
 1. Chen, J. et al. 3d-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture. *Nat. Commun.* **16**, 363 (2025). [*(paper)*](https://doi.org/10.1038/s41467-024-55624-w)
 
-   <table>
-   <tr>
-   <td width="30%">
-     <img src="abstract image/3d-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture.png" width="100%" alt="Graphical abstract">
-   </td>
-   <td width="70%">
-     <p style="text-align: justify;">><b>Abstract (English):</b><br>
-     Terahertz (THz) lens constitutes a vital component in the THz system. Metasurfaces-based THz metalenses and classical bulky lenses are severely constrained by chromatic/ spherical aberration and the diffraction limit. Consequently, achromatic super-resolution THz lenses are urgently needed. In this study, through translating the required phase distribution into a refractive index (RI) profile with a specific thickness, an innovative approach to designing THz metalenses is proposed and achieved by dielectric gradient metamaterials. The samples fabricated by 3D printing can realize achromatic super focusing with a numerical aperture (NA) of 0.555 from 0.2 to 0.9 THz. Submillimeter features separated by approximately 0.2 mm can be resolved with high precision, such as glass fabric patterns within FR4 panels and fibrous tissue on leaves, with a field of view (FOV) of 90°. Our approach offers a feasible and cost-effective means to implement THz super-resolution imaging, which holds great potential in non-destructive testing and biomedical imaging.</p>
-     <p style="text-align: justify;">><b>摘要（中文）:</b><br>
-     在太赫兹成像系统中，传统透镜往往面临色差大、像差重、体积庞大的难题。介质透镜虽然可实现聚焦，但其分辨率受限且难以在高频下保持稳定成像；超表面金属透镜虽具备紧凑结构，却常常只能在窄频段内工作，无法同时消除色差与离轴像差。如何在宽频范围内实现高分辨率、超宽视场且无像差的太赫兹聚焦，一直是该领域面临的核心挑战。针对这一问题，香港城市大学太赫兹与毫米波国家重点实验室Chi Hou Chan团队提出了一种全新的设计理念：将金属透镜中所需的相位分布转化为等效的折射率分布，并通过径向渐变的介质超材料来实现对光线传播路径的连续调控。可以将这一思路理解为“为光波绘制一条在折射率中渐变的理想轨迹”，使其像在连续变化密度的介质中一样自然弯曲、无畸变地汇聚在同一焦点。研究团队利用高精度3D打印技术制备了这种渐变折射率超构透镜，实验证实其在0.2至0.9 THz的超宽频段内可实现数值孔径为0.555的消色差超聚焦，焦斑宽度仅约为0.8倍波长，聚焦效率稳定在80%左右。在±45°的入射角下仍能保持清晰成像，视场角达到90°，并成功解析出FR4电路板内部约0.2毫米的玻纤纹理和叶片的纤维组织，展现出优异的超分辨无像差成像能力。该成果以 3D-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture 为题，于2025年1月3日发表于《Nature Communications》。</p>
-   </td>
-   </tr>
-   </table>
-
-   </table>
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/3d-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture.png" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       Terahertz (THz) lens constitutes a vital component in the THz system. Metasurfaces-based THz metalenses and classical bulky lenses are severely constrained by chromatic/ spherical aberration and the diffraction limit. Consequently, achromatic super-resolution THz lenses are urgently needed. In this study, through translating the required phase distribution into a refractive index (RI) profile with a specific thickness, an innovative approach to designing THz metalenses is proposed and achieved by dielectric gradient metamaterials. The samples fabricated by 3D printing can realize achromatic super focusing with a numerical aperture (NA) of 0.555 from 0.2 to 0.9 THz. Submillimeter features separated by approximately 0.2 mm can be resolved with high precision, such as glass fabric patterns within FR4 panels and fibrous tissue on leaves, with a field of view (FOV) of 90°. Our approach offers a feasible and cost-effective means to implement THz super-resolution imaging, which holds great potential in non-destructive testing and biomedical imaging.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       在太赫兹成像系统中，传统透镜往往面临色差大、像差重、体积庞大的难题。介质透镜虽然可实现聚焦，但其分辨率受限且难以在高频下保持稳定成像；超表面金属透镜虽具备紧凑结构，却常常只能在窄频段内工作，无法同时消除色差与离轴像差。如何在宽频范围内实现高分辨率、超宽视场且无像差的太赫兹聚焦，一直是该领域面临的核心挑战。针对这一问题，香港城市大学太赫兹与毫米波国家重点实验室 Chi Hou Chan 团队提出了一种全新的设计理念：将金属透镜中所需的相位分布转化为等效的折射率分布，并通过径向渐变的介质超材料来实现对光线传播路径的连续调控。可以将这一思路理解为“为光波绘制一条在折射率中渐变的理想轨迹”，使其像在连续变化密度的介质中一样自然弯曲、无畸变地汇聚在同一焦点。研究团队利用高精度 3D 打印技术制备了这种渐变折射率超构透镜，实验证实其在 0.2–0.9 THz 的超宽频段内可实现数值孔径为 0.555 的消色差超聚焦，焦斑宽度仅约为 0.8 倍波长，聚焦效率稳定在 80% 左右。在 ±45° 的入射角下仍能保持清晰成像，视场角达到 90°，并成功解析出 FR4 电路板内部约 0.2 毫米的玻纤纹理和叶片的纤维组织，展现出优异的超分辨无像差成像能力。该成果以 <i>3D-printed aberration-free terahertz metalens for ultra-broadband achromatic super-resolution wide-angle imaging with high numerical aperture</i> 为题，于 2025 年 1 月 3 日发表于《Nature Communications》。
+     </p>
 
 2. You, X., Ako, R. T., Sriram, S. & Withayachumanakul, W. 3d terahertz confocal imaging with chromatic metasurface. *Laser Photonics Rev.* **19**, 2401011 (2025). [*(paper)*](https://doi.org/10.1002/lpor.202401011)
 
