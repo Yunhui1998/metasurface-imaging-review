@@ -34,8 +34,6 @@
 
 ![Overview](assets/Overview.jpg)
 
-A unified "from performance to structure" framework for next-generation metasurface imaging (Figure adapted from our review).
-
 ---
 
 ## 📖 Abstract
@@ -43,7 +41,7 @@ This review introduces a ‘from performance to structure’ imaging metasurface
 
 ---
 
-### 📂 Batch Download of References
+## 📂 Batch Download of References
 
 Our **[GitHub repository](https://github.com/Yunhui1998/metasurface-imaging-review)**provides a method for **batch downloading the referenced papers**. The utility script **`Tools/download.py`** automatically parses all reference entries in the `README.md` file and downloads the corresponding PDF files (subject to network access permissions).
 
