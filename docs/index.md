@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Yunhui1998">Yunhui Zeng</a>,
-  <a href="#">Haopeng Zhong</a>,
+  <a href="https://github.com/andyou233">Haopeng Zhong</a>,
   <a href="#">Zhenwei Long</a>,
   <a href="#">Hongkun Cao</a>,
   <a href="https://www.sigs.tsinghua.edu.cn/jx/main.htm">Xin Jin*</a>
@@ -96,10 +96,114 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
 
 2. You, X., Ako, R. T., Sriram, S. & Withayachumanakul, W. 3d terahertz confocal imaging with chromatic metasurface. *Laser Photonics Rev.* **19**, 2401011 (2025). [*(paper)*](https://doi.org/10.1002/lpor.202401011)
 
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/3D Terahertz Confocal Imaging with Chromatic Metasurface.jpg" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+        Terahertz confocal imaging allows 3D see-through of a non-metallic object with high resolution. Conventional methods acquiring 3D images of thick objects suffer from limited depth-of-field, constrained depth resolution, and/or inconsistent spatial resolution at different depths. To address these limitations, the intrinsic chromatic aberration of a typical focusing metasurface is exploited to achieve frequency-dependent focal lengths. An object located within this extended focal range can be readily 3D inspected by performing 2D raster scans. A rigorous analysis reveals that the focal spot maintains a constant waist diameter of 2.4 mm (equivalent to 2.2
+        at 275 GHz) and migrates 68.1 mm (equivalent to 62.4
+        , or 16.4 times of Rayleigh length, or 1.4-fold of the designed focal length at 275 GHz) from 175 to 525 GHz, and thus achieving a consistent spatial resolution and a large depth-of-field for 3D imaging. Importantly, this large depth-of-field is achieved with a relatively high numerical aperture of around 0.42. Measurements conducted between 220 and 330 GHz exhibit close agreement with the calculation. To demonstrate its imaging functionality, two stacked papers with different texts, a mobile phone, and earphones concealed in a charging case are imaged, where a short-time Fourier transform is implemented in the time-domain terahertz images to enhance image contrast. The presented metasurface is technologically significant for imaging systems to rapidly inspect objects in 3D with exceptional resolutions. Its potential applications include in-situ defect detection and object identification in security screening.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 3. Liu, M. et al. Achromatic and coma-corrected hybrid meta-optics for high-performance thermal imaging. *Nano Lett.* **24**, 7609–7615 (2024). [*(paper)*](https://doi.org/10.1021/acs.nanolett.4c01218)
 
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Achromatic and coma-corrected hybrid meta-optics for high-performance thermal imaging..gif" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+        Long-wave infrared (LWIR) imaging, or thermal imaging, is widely applied in night vision and security monitoring. However, the widespread use of LWIR imagers is impeded by their bulky size, considerable weight, and high cost. While flat meta-optics present a potential solution to these limitations, existing pure LWIR meta-optics face constraints such as severe chromatic or coma aberrations. Here, we introduce an approach utilizing large-scale hybrid meta-optics to address these challenges and demonstrate the achromatic, coma-corrected, and polarization-insensitive thermal imaging. The hybrid metalens doublet is composed of a metasurface corrector and a refractive lens, featuring a full field-of-view angle surpassing 20° within the 8–12 μm wavelength range. Employing this hybrid metalens doublet, we showcase high-performance thermal imaging capabilities both indoors and outdoors, effectively capturing ambient thermal radiation. The proposed hybrid metalens doublet holds considerable promise for advancing miniaturized, lightweight, and cost-effective LWIR optical imaging systems.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 4. Dong, Y. et al. Achromatic single metalens imaging via deep neural network. *ACS Photonics* **11**, 1645–1656 (2024). [*(paper)*](https://doi.org/10.1021/acsphotonics.3c01870)
 
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Achromatic Single Metalens Imaging via Deep Neural Network.jpeg" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+        Meta-optics are attracting intensive interest as alternatives to traditional optical systems comprising multiple lenses and diffractive elements. Among applications, single metalens imaging is highly attractive due to the potential for achieving significant size reduction and simplified design. However, single metalenses exhibit severe chromatic performance degradation arising from material dispersion and the nature of singlet optics, making them unsuitable for full-color imaging requiring achromatic performance. In this work, we propose and validate a deep learning-based approach to enhance full-color imaging quality in single metalens systems. Our developed deep learning networks computationally reconstruct raw imaging captures by effectively refocusing the red, green, and blue primary channels, eliminating chromatic aberration and vignetting, and enhancing resolution. Importantly, these improvements are achieved without requiring any hardware modifications to the metalens itself. Through comprehensive evaluations on diverse synthetic and real-world data sets captured under various environmental conditions and focusing distances, our approach consistently demonstrates significant enhancements in image quality. By providing a practical and simplified implementation, our method overcomes the inherent limitations of meta-optics and enables the realization of achromatic metalenses without complex engineering. By addressing key challenges in full-color imaging for single metalenses, this research enables new practical applications in photography, videography, and micrography via the easy integration of metalenses with commercial cameras.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 5. He, H. et al. Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface. *Adv. Mater.* **36**, 2313357 (2024). [*(paper)*](https://doi.org/10.1002/adma.202313357)
 
 6. Hsu, W.-L. et al. High-resolution metalens imaging with sequential artificial intelligence models. *Nano Lett.* **23**, 11614–11620 (2023). [*(paper)*](https://doi.org/10.1021/acs.nanolett.3c03416)
