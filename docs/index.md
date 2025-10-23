@@ -1121,7 +1121,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Compact meta-optics infrared camera based on a polarization-insensitive metalens with a large field of view.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1134,7 +1134,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+       Metasurfaces have recently emerged as a crucial tool because they achieve spherical-aberration-free focusing when exposed to normal incident light. Nevertheless, these metasurfaces often exhibit considerable coma when subjected to oblique incident light, thereby limiting their imaging field of view. In light of this, our study presents the design and an experimental demonstration of a polarization-insensitive, large-field-of-view metalens that uses a silicon metasurface. The metalens is specifically tailored to the long-wavelength infrared region and possesses a numerical aperture of 0.81, which is capable of focusing light at incident angles up to ±80°. Moreover, we successfully build a meta-optics camera by integrating the large field-of-view metalens on top of an image sensor, thus enabling wide-angle thermal imaging of practical scenes. This research provides new, to the best of our knowledge, insights for designing and realizing large-field-of-view optical systems and holds promise for applications in night vision imaging and security monitoring.
      </p>
      <p style="
        color:#333333;
@@ -1157,7 +1157,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Wide field of view and full strokes polarization imaging using metasurfaces inspired by the stomatopod eye.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1170,7 +1170,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Wide field of view and polarization imaging capabilities are crucial for implementation of advanced imaging devices. However, there are still great challenges in the integration of such optical systems. Here, we report a bionic compound eye metasurface that can realize full Stokes polarization imaging in a wide field of view. The bionic compound eye metasurface consists of a bifocal metalens array in which every three bifocal metalenses form a subeye. The phase of the bifocal metalens is composed of gradient phase and hyperbolic phase. Numerical simulations show that the bifocal metalens can not only improve the focusing efficiency in the oblique light but also correct the aberration caused by the oblique incident light. And the field of view of the bionic compound eye metasurface can reach 120° × 120°. We fabricated a bionic compound eye metasurface which consists of three subeyes. Experiments show that the bionic compound eye metasurface can perform near diffraction-limited polarization focusing and imaging in a large field of view. The design method is generic and can be used to design metasurfaces with different materials and wavelengths. It has great potential in the field of robot polarization vision and polarization detection.
      </p>
      <p style="
        color:#333333;
