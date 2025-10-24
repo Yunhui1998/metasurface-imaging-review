@@ -1595,7 +1595,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/ultifaceted control of focal points along an arbitrary 3d curved trajectory.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1631,7 +1631,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Underwater binocular meta-lens.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1644,7 +1644,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+       Underwater optics in all-aquatic environments is vital for environmental management, biogeochemistry, phytoplankton ecology, benthic processes, global change, etc. Many optical techniques of observational systems for underwater sensing, imaging, and applications have been developed. For the demands of compact, miniaturized, portable, lightweight, and low-energy consumption, a novel underwater binocular depth-sensing and imaging meta-optic device is developed and reported here. A GaN binocular meta-lens is specifically designed and fabricated to demonstrate underwater stereo vision and depth sensing. The diameter of each meta-lens is 2.6 mm, and the measured distance between the two meta-lens centers is 4.04 mm. The advantage of our binocular meta-lens is no need of distortion correction or camera calibration, which is necessary for traditional two-camera stereo vision systems. Based on the experimental results, we developed the generalized depth calculation formula for all-size binocular vision systems. With deep-learning support, this stereo vision system can realize the fast underwater object’s depth and image computation for real-time processing capability. Our artificial intelligent imaging results show that depth measurement accuracy is down to 50 μm. Besides the aberration-free advantage of flat meta-optic components, the intrinsic superhydrophobicity properties of our nanostructured GaN meta-lens enable an antiadhesion, stain-resistant, and self-cleaning novel underwater imaging device. This stereo vision binocular meta-lens will significantly benefit underwater micro/nanorobots, autonomous submarines, machine vision in the ocean, marine ecological surveys, etc.
      </p>
      <p style="
        color:#333333;
@@ -1657,27 +1657,400 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        
      </p>
 3.  Yin, B. & Wang, S. Research and design of a metasurface with an extended depth of focus in the near field. *Appl. Opt.* **62**, 7621–7627 (2023). [*(paper)*](https://doi.org/10.1364/AO.500686)
-   
+  
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Research and design of a metasurface with an extended depth of focus in the near field.jpg" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       A metasurface with an extended depth of focus has broad application prospects in security detection. However, in the near field, the simulation results obtained by using traditional methods to achieve an extended depth of focus have a significant deviation from the preset value. This paper discusses the relationship between the depth of focus and focusing position, and the reason why the simulation results deviate from the preset focus position in the radial modulation method.  The angle modulation method is found by a simulation. A more accurate method for an extended depth of focus was proposed by combining the radial modulation method with the quasi-optical path principle. Finally, a polarization-insensitive reflective metasurface element was designed, and elements were arranged to form a polarization-insensitive focus between 150 and 400 mm based on the focusing effect settings. The simulation results indicate that the metasurface achieves the same focusing effect between 175 and 425 mm when different linear-polarization waves are incident. This focus is greater and more accurate than the radial modulation method under the same conditions, which indicates that the method is superior to the radial modulation method in the near-field region. The simulation verifies the accuracy of the method and shows potential application prospects in fields such as microwave imaging.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 4.  Zhao, J. et al. Rapid cellular-resolution skin imaging with optical coherence tomography using all-glass multifocal metasurfaces. *ACS nano* **17**, 3442–3451 (2023). [*(paper)*](https://doi.org/10.1021/acsnano.2c09542)
-   
+  
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Rapid cellular-resolution skin imaging with optical coherence tomography using all-glass multifocal metasurfaces.gif" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       Cellular-resolution optical coherence tomography (OCT) is a powerful tool offering noninvasive histology-like imaging. However, like other optical microscopy tools, a high numerical aperture (N.A.) lens is required to generate a tight focus, generating a narrow depth of field, which necessitates dynamic focusing and limiting the imaging speed. To overcome this limitation, we developed a metasurface platform that generates multiple axial foci, which multiplies the volumetric OCT imaging speed by offering several focal planes. This platform offers accurate and flexible control over the number, positions, and intensities of axial foci generated. All-glass metasurface optical elements 8 mm in diameter are fabricated from fused-silica wafers and implemented into our scanning OCT system. With a constant lateral resolution of 1.1 μm over all depths, the multifocal OCT triples the volumetric acquisition speed for dermatological imaging, while still clearly revealing features of stratum corneum, epidermal cells, and dermal-epidermal junctions and offering morphological information as diagnostic criteria for basal cell carcinoma. The imaging speed can be further improved in a sparse sample, e.g., 7-fold with a seven-foci beam. In summary, this work demonstrates the concept of metasurface-based multifocal OCT for rapid virtual biopsy, further providing insights for developing rapid volumetric imaging systems with high resolution and compact volume.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>   
 5.  Shen, Z. et al. Monocular metasurface camera for passive single-shot 4d imaging. *Nat. Commun.* **14**, 1035 (2023). [*(paper)*](https://doi.org/10.1038/s41467-023-36812-6)
-   
+  
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Monocular metasurface camera for passive single-shot 4d imaging.png" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       It is a grand challenge for an imaging system to simultaneously obtain multi-dimensional light field information, such as depth and polarization, of a scene for the accurate perception of the physical world. However, such a task would conventionally require bulky optical components, time-domain multiplexing, and active laser illumination. Here, we experimentally demonstrate a compact monocular camera equipped with a single-layer metalens that can capture a 4D image, including 2D all-in-focus intensity, depth, and polarization of a target scene in a single shot under ambient illumination conditions. The metalens is optimized to have a conjugate pair of polarization-decoupled rotating single-helix point-spread functions that are strongly dependent on the depth of the target object. Combined with a straightforward, physically interpretable image retrieval algorithm, the camera can simultaneously perform high-accuracy depth sensing and high-fidelity polarization imaging over an extended depth of field for both static and dynamic scenes in both indoor and outdoor environments. Such a compact multi-dimensional imaging system could enable new applications in diverse areas ranging from machine vision to microscopy.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>   
 6.  Zheng, Y. et al. Designing high-efficiency extended depth-of-focus metalens via topology-shape optimization. *Nanophotonics* **11**, 2967–2975 (2022). [*(paper)*](https://doi.org/10.1515/nanoph-2022-0183)
    
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Designing high-efficiency extended depth-of-focus metalens via topology-shape optimization.jpg" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       Longitudinal optical field modulation is of critical importance in a wide range of applications, including optical imaging, spectroscopy, and optical manipulation. However, it remains a considerable challenge to realize a uniformly distributed light field with extended depth-of-focus. Here, a high-efficiency extended depth-of-focus metalens is proposed by adjoint-based topology-shape optimization approach, wherein the theoretical electric field intensity corresponding to a variable focal-length phase is utilized as the figure of merit. Using a dozen of metalens with random structure parameters as initial structures, the average focal depth of topology-shape optimized metalens is greatly improved up to 18.80 μm (about 29.7λ), which is 1.54 times higher than the diffraction-limited focal depth. Moreover, all the topology-shape optimized metalens exhibit high diffraction efficiency exceeding 0.7 over the whole focal depth range, which is approximately three times greater than that of the forward design. Our results offer a new insight into the design of extended depth-of-focus metalens and may find potential applications in imaging, holography, and optical fabrication.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>  
 7.  Zheng, R. et al. Active multiband varifocal metalens based on orbital angular momentum division multiplexing. *Nat. Commun.* **13**, 4292 (2022). [*(paper)*](https://doi.org/10.1038/s41467-022-32044-2)
-   
+     
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Active multiband varifocal metalens based on orbital angular momentum division multiplexing.png" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       Metalenses as miniature flat lenses exhibit a substantial potential in replacing traditional optical component. Although the metalenses have been intensively explored, their functions are limited by poor active ability, narrow operating band and small depth of field (DOF). Here, we show a dielectric metalens consisting of TiO2 nanofins array with ultrahigh aspect ratio to realize active multiband varifocal function. Regulating the orbital angular momentum (OAM) by the phase assignment covering the 2π range, its focal lengths can be switched from 5 mm to 35 mm. This active optical multiplexing uses the physical properties of OAM channels to selectively address and decode the vortex beams. The multiband capability and large DOFs with conversion efficiency of 49% for this metalens are validated for both 532 nm and 633 nm, and the incidence wavelength can further change the focal lengths. This non-mechanical tunable metalens demonstrates the possibility of active varifocal metalenses.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 8.  Fan, Q. et al. Triholite-inspired neural nanophotonic light-field camera with extreme depth-of-field. *Nat. Commun.* **13**, 2130 (2022). [*(paper)*](https://doi.org/10.1038/s41467-022-29568-y)
-   
+     
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Triholite-inspired neural nanophotonic light-field camera with extreme depth-of-field.png" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       A unique bifocal compound eye visual system found in the now extinct trilobite, Dalmanitina socialis, may enable them to be sensitive to the light-field information and simultaneously perceive both close and distant objects in the environment. Here, inspired by the optical structure of their eyes, we demonstrate a nanophotonic light-field camera incorporating a spin-multiplexed bifocal metalens array capable of capturing high-resolution light-field images over a record depth-of-field ranging from centimeter to kilometer scale, simultaneously enabling macro and telephoto modes in a snapshot imaging. By leveraging a multi-scale convolutional neural network-based reconstruction algorithm, optical aberrations induced by the metalens are eliminated, thereby significantly relaxing the design and performance limitations on metasurface optics. The elegant integration of nanophotonic technology with computational photography achieved here is expected to aid development of future high-performance imaging systems.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 9.  Zhao, F. et al. Metalens-assisted system for underwater imaging. *Laser Photonics Rev.* **15**, 2100097 (2021). [*(paper)*](https://doi.org/10.1002/lpor.202100097)
-    
+      
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Metalens-assisted system for underwater imaging.jpg" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       The ability to image under water is highly desirable for a variety of applications including biological monitoring and seafloor survey, yet the image quality is usually hampered by the presence of scattering medium in water. Polarization imaging has proven to be an effective method for image enhancement; however, conventional systems require mechanically rotating polarizers which compromises the system's footprint or a set of polarization filters which limits the system's efficiency. Here, a compact polarization imaging apparatus that leverages a multifunctional planar dielectric metalens to simultaneously capture two orthogonally polarized images of an underwater scene is presented. Using a metalens to image target objects through milky water in a single shot, large enhancement of image contrast and depth estimation of target objects in real-time are demonstrated. This work shows the effectiveness of metalens for tackling challenging imaging tasks in complex environments.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 10.  Tan, S., Yang, F., Boominathan, V., Veeraraghavan, A. & Naik, G. V. 3d imaging using extreme dispersion in optical metasurfaces. *ACS Photonics* **8**, 1421–1429 (2021). [*(paper)*](https://doi.org/10.1021/acsphotonics.1c00110)
-    
+      
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/3d imaging using extreme dispersion in optical metasurfaces.jpeg" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       Metasurfaces have the potential to revolutionize imaging technologies due to their extreme control of phase, polarization, and amplitude of the incident light. They rely upon enhanced local interaction of light to achieve the desired phase profile. As a consequence of the enhanced local interaction of light, metasurfaces are highly dispersive. This strong dispersion has been recognized as a primary limitation as it relates to realizing conventional imaging with metasurfaces. Here, we argue that this strong dispersion is an added degree of design freedom for computational imaging, potentially opening up novel applications. In particular, we exploit this strongly dispersive property of metasurfaces to propose a compact, single-shot, and passive 3D imaging camera. Our device consists of a metalens engineered to focus different wavelengths at different depths and two deep networks to recover depth and RGB texture information from chromatic, defocused images acquired by the system. In contrast with other metasurface-based 3D sensors, our design can operate in the full visible range with a larger field-of-view (FOV) and can potentially generate dense depth maps of complicated 3D scenes. Our simulation results on a 1 mm diameter metalens demonstrate its ability to capture 3D depth and texture information ranging from 0.12 to 0.6 m.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 11.  Bayati, E. et al. Inverse designed metalenses with extended depth of focus. *ACS Photonics* **7**, 873–878 (2020). [*(paper)*](https://doi.org/10.1021/acsphotonics.9b01703)
-    
+      
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Inverse designed metalenses with extended depth of focus.jpeg" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       Extended depth of focus (EDOF) lenses are important for various applications in computational imaging and microscopy. In addition to enabling novel functionalities, EDOF lenses can alleviate the need for stringent alignment requirements for imaging systems. Existing designs, however, are often inefficient or produce an asymmetric point spread function (PSF) that blurs images. Inverse design of nanophotonics, including metasurfaces, has generated strong interest in recent years owing to its potential for generating exotic and innovative optical elements, which are generally difficult to design based on intuition alone. Using adjoint optimization-based inverse electromagnetic design, in this paper, we designed a cylindrical metasurface lens operating at ∼625 nm with a depth of focus exceeding that of an ordinary lens. We validated our design by nanofabrication and optical characterization of silicon nitride metasurface lenses (with a lateral dimension of 66.66 μm) with three different focal lengths (66.66, 100, and 133.33 μm). The focusing efficiencies of the fabricated extended depth of focus metasurface lenses are similar to those of traditional metalenses.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 12.  Zhang, Z., Yang, Q., Gong, M., Chen, M. & Long, Z. Metasurface lens with angular modulation for extended depth of focus imaging. *Opt. Lett.* **45**, 611–614 (2020). [*(paper)*](https://doi.org/10.1364/OL.382812)
-    
+      
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Metasurface lens with angular modulation for extended depth of focus imaging1.jpg"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       The depth of focus (DOF) indicates the tolerance of the imaging displacement. The axial long-focal-depth is significant in practical applications, including optical imaging and communication. The importance of extending the DOF is rapidly growing with the advance of metasurface lenses. Angular modulation, as a promising way to extend the DOF, offers an additional degree of freedom to improve the imaging quality. Here we theoretically and experimentally demonstrate an angular modulated metasurface lens for extended DOF imaging by means of applying the geometrical phase. Unlike previous studies of the geometrical phase, which is sensitive to the polarity of circular polarization incidence, the polarity of circular polarization independence and broadband characteristic of angular modulation yield the potential of robust and efficient extension of the DOF imaging, thus providing novel opportunities for highly integrated optical circuits.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 13.  Colburn, S. & Majumdar, A. Single-shot three-dimensional imaging with a metasurface depth camera. *arXiv preprint arXiv:1910.12111* (2019). [*(paper)*](https://arxiv.org/abs/1910.12111)
-
+  
+     <div style="
+       text-align:center;
+       background-color:#f2f2f2;
+       border-radius:10px;
+       padding:12px;
+       box-shadow:0 2px 6px rgba(0,0,0,0.1);
+       margin-bottom:18px;
+     ">
+       <img 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         alt="Graphical abstract"
+         style="width:85%; max-width:650px; border-radius:8px;"
+       >
+     </div>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:16px;
+     ">
+       <b>Abstract (English):</b><br>
+       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+     </p>
+     <p style="
+       color:#333333;
+       text-align: justify;
+       text-justify: inter-ideograph;
+       line-height:1.65;
+       margin-bottom:0;
+     ">
+       <b>摘要（中文）:</b><br>
+       
+     </p>
 ---
 
 ### 4. Resolution Enhancement
