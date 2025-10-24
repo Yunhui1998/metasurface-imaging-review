@@ -1229,7 +1229,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Thickness bound for nonlocal wide-field-of-view metalenses.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1242,7 +1242,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Metalenses—flat lenses made with optical metasurfaces—promise to enable thinner, cheaper, and better imaging systems. Achieving a sufficient angular field of view (FOV) is crucial toward that goal and requires a tailored incident-angle-dependent response. Here, we show that there is an intrinsic trade-off between achieving a desired broad-angle response and reducing the thickness of the device. Like the memory effect in disordered media, this thickness bound originates from the Fourier transform duality between space and angle. One can write down the transmission matrix describing the desired angle-dependent response, convert it to the spatial basis where its degree of nonlocality can be quantified through a lateral spreading, and determine the minimal device thickness based on such a required lateral spreading. This approach is general. When applied to wide-FOV lenses, it predicts the minimal thickness as a function of the FOV, lens diameter, and numerical aperture. The bound is tight, as some inverse-designed multi-layer metasurfaces can approach the minimal thickness we found. This work offers guidance for the design of nonlocal metasurfaces, proposes a new framework for establishing bounds, and reveals the relation between angular diversity and spatial footprint in multi-channel systems.
      </p>
      <p style="
        color:#333333;
