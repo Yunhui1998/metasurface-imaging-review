@@ -1265,7 +1265,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Imaging properties of large field-of-view quadratic metalenses and their applications to fingerprint detection.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1278,7 +1278,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        NDielectric metasurfaces, extremely thin nanostructured dielectric surfaces, hold promise to replace conventional refractive optics, such as lenses, due to their high performance and compactness. However, designing large field-of-view (FOV) metalenses, which are of particular importance when imaging relatively big objects at short distances, remains one of the most critical challenges. Recently, metalenses implementing a quadratic phase profile have been put forward to solve this problem with a single element, but despite their theoretical ability to provide 180° FOV, imaging over very large FOV has not been demonstrated yet. In this work, we provide an in-depth analysis of the imaging properties of quadratic metalenses and, in particular, show that due to their intrinsic barrel distortion or fish-eye effect, there is a fundamental trade-off between the FOV achievable in a given imaging configuration and the optical resolution of the metalens and/or the detector resolution. To illustrate how to harness the full potential of quadratic metalenses, we apply these considerations to the fingerprint detection problem and demonstrate experimentally the full imaging of a 5 mm fingerprint with features of the order of 100 μm, with a metalens ten times smaller in size and located at a distance of only 2.5 mm away from the object. This constitutes the most compact imaging system reported so far for fingerprint detection.
      </p>
      <p style="
        color:#333333;
@@ -1301,7 +1301,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Single-element diffraction-limited fisheye metalens.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1314,7 +1314,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Wide field-of-view (FOV) optical functionality is crucial for implementation of advanced imaging and image projection devices. Conventionally, wide FOV operation is attained with complicated assembly of multiple optical elements known as “fisheye lenses”. Here we present a novel metalens design capable of performing diffraction-limited focusing and imaging over an unprecedented near 180° angular FOV. The lens is monolithically integrated on a one-piece flat substrate and involves only a single layer of metasurface that corrects third-order Seidel aberrations including coma, astigmatism, and field curvature. The metalens further features a planar focal surface, which enables considerably simplified system architectures for applications in imaging and projection. We fabricated the metalens using Huygens meta-atoms operating at 5.2 μm wavelength and experimentally demonstrated aberration-free focusing and imaging over the entire FOV. The design concept is generic and can be readily adapted to different meta-atom geometries and wavelength ranges to meet diverse application demands.
      </p>
      <p style="
        color:#333333;
@@ -1337,7 +1337,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Single-layer aberration-compensated flat lens for robust wide-angle imaging.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1350,7 +1350,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Metasurfaces are planarized and miniaturized versions of conventional optical elements. Subwavelength-thick single-layer metalenses have diffraction limited resolution for on-axis imaging but relatively low resolution for off-axis imaging due to off-axial aberrations. The aberrations of planar single-layer metalenses have been corrected by patterning two metasurfaces on both sides of a substrate to form metalens doublets with a thickness of hundreds of micrometers to millimeters. The multilevel diffractive lenses are demonstrated to achieve wide angle imaging with a thickness of several micrometers, however, the off-axial aberrations are not compensated. Here, an epsilon-greedy algorithm-based scheme for achieving a planar wavelength-thick single-layer aberration-compensated (SLAC) flat lens consisting of dielectric nanoring structures fabricated by 3D printing are proposed. The scheme is experimentally validated via a SLAC flat lens. This SLAC flat lens has a thickness of 1 µm, a numerical aperture of 0.45, a focal length of 1 mm, a full field of view (FOV) of 32° that enables aberration-compensated imaging along the focal plane and monochromatic microscopic imaging with resolution better than 2.2 µm at a wavelength of 633 nm. This scheme can lead to ultrathin wide-FOV flat lens designs as well as low-cost mass production, which has various applications in miniscopes, mobile camera modules, and machine vision.
      </p>
      <p style="
        color:#333333;
@@ -1373,7 +1373,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/On metalenses with arbitrarily wide field of view.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1386,7 +1386,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Metalenses are nanostructured surfaces that mimic the functionality of optical elements. Many exciting demonstrations have already been made, for example, focusing into diffraction-limited spots or achromatic operation over a wide wavelength range. The key functionality that is yet missing, however, and that is most important for applications such as smartphones or virtual reality, is the ability to perform the imaging function with a single element over a wide field of view. Here, by relaxing the constraint on diffraction-limited resolution, we demonstrate the ability of single-layer metalenses to perform wide field of view (WFOV) imaging while maintaining high resolution suitable for most applications. We also discuss the WFOV physical properties and, in particular, we show that such a WFOV metalens mimics a spherical lens in the limit of infinite radius and infinite refractive index. Finally, we use Fourier analysis to explain the dependence of the FOV on the numerical aperture.
      </p>
      <p style="
        color:#333333;
@@ -1409,7 +1409,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Metalens-integrated compact imaging devices for wide-field microscopy.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1422,7 +1422,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Metasurfaces have demonstrated unprecedented capabilities in manipulating light with ultrathin and flat architectures. Although great progress has been made in the metasurface designs and function demonstrations, most metalenses still only work as a substitution of conventional lenses in optical settings, whose integration advantage is rarely manifested. We propose a highly integrated imaging device with silicon metalenses directly mounted on a complementary metal oxide semiconductor image sensor, whose working distance is in hundreds of micrometers. The imaging performances including resolution, signal-to-noise ratio, and field of view (FOV) are investigated. Moreover, we develop a metalens array with polarization-multiplexed dual-phase design for a wide-field microscopic imaging. This approach remarkably expands the FOV without reducing the resolution, which promises a non-limited space-bandwidth product imaging for wide-field microscopy. As a result, we demonstrate a centimeter-scale prototype for microscopic imaging, showing uniqueness of meta-design for compact integration.
      </p>
      <p style="
        color:#333333;
@@ -1445,7 +1445,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Near-IR wide-field-of-view huygens metalens for outdoor imaging applications.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1458,7 +1458,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        The ongoing effort to implement compact and cheap optical systems is the main driving force for the recent flourishing research in the field of optical metalenses. Metalenses are a type of metasurface, used for focusing and imaging applications, and are implemented based on the nanopatterning of an optical surface. The challenge faced by metalens research is to reach high levels of performance using simple fabrication methods suitable for mass production. In this paper, we present a Huygens nanoantenna-based metalens, designed for outdoor photographic/surveillance applications in the near infrared. We show that good imaging quality can be obtained over a field of view as large as ±15°. This first successful implementation of metalenses for outdoor imaging applications is expected to provide insight and inspiration for future metalens imaging applications.
      </p>
      <p style="
        color:#333333;
@@ -1481,7 +1481,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Ultrawide-angle and high-efficiency metalens in hexagonal arrangement.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1494,7 +1494,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Wide-angle optical systems play a vital role in imaging applications and have been researched for many years. In traditional lenses, attaining a wide field of view (FOV) by using a single optical component is difficult because these lenses have crucial aberrations. In this study, we developed a wide-angle metalens with a numerical aperture of 0.25 that provided a diffraction-limited FOV of over 170° for a wavelength of 532 nm without the need for image stitching or multiple lenses. The designed wide-angle metalens is free of aberration and polarization, and its full width of half maximum is close to the diffraction limit at all angles. Moreover, the metalens which is designed through a hexagonal arrangement exhibits higher focusing efficiency at all angles than most-seen square arrangement. The focusing efficiencies are as high as 82% at a normal incident and 45% at an incident of 85°. Compared with traditional optical components, the proposed metalens exhibits higher FOV and provides a more satisfactory image quality because of aberration correction. Because of the advantages of the proposed metalens, which are difficult to achieve for a traditional single lens, it has the potential to be applied in camera systems and virtual and augmented reality.
      </p>
      <p style="
        color:#333333;
@@ -1517,7 +1517,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
+         src="abstract image/Meta-lens doublet in the visible region.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -1530,7 +1530,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Recently, developments in meta-surfaces have allowed for the possibility of a fundamental shift in lens manufacturing—from the century-old grinding technology to nanofabrication—opening a way toward mass producible high-end meta-lenses. Inspired by early camera lenses and to overcome the aberrations of planar single-layered meta-lenses, we demonstrate a compact meta-lens doublet by patterning two metasurfaces on both sides of a substrate. This meta-lens doublet has a numerical aperture of 0.44, a focal length of 342.5 μm, and a field of view of 50° that enables diffraction-limited monochromatic imaging along the focal plane at a wavelength of 532 nm. The compact design has various imaging applications in microscopy, machine vision, and computer vision.
      </p>
      <p style="
        color:#333333;
@@ -1553,8 +1553,8 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Meta-attention network based spectral reconstruction with snapshot near-infrared metasurface.jpg" 
-         alt="Graphical abstract"
+         src="abstract image/Miniature optical planar camera based on a wide-angle metasurface doublet corrected for monochromatic aberrations.png" 
+         alt="Graphical abstract"s
          style="width:85%; max-width:650px; border-radius:8px;"
        >
      </div>
@@ -1566,7 +1566,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+        Optical metasurfaces are two-dimensional arrays of nano-scatterers that modify optical wavefronts at subwavelength spatial resolution. They are poised to revolutionize optics by enabling complex low-cost systems where multiple metasurfaces are lithographically stacked and integrated with electronics. For imaging applications, metasurface stacks can perform sophisticated image corrections and can be directly integrated with image sensors. Here we demonstrate this concept with a miniature flat camera integrating a monolithic metasurface lens doublet corrected for monochromatic aberrations, and an image sensor. The doublet lens, which acts as a fisheye photographic objective, has a small f-number of 0.9, an angle-of-view larger than 60° × 60°, and operates at 850 nm wavelength with 70% focusing efficiency. The camera exhibits nearly diffraction-limited image quality, which indicates the potential of this technology in the development of optical systems for microscopy, photography, and computer vision.
      </p>
      <p style="
        color:#333333;
@@ -1608,7 +1608,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-        Near-infrared (NIR) spectral information is important for detecting and analyzing material compositions. However, snapshot NIR spectral imaging systems still pose significant challenges owing to the lack of high-performance NIR filters and bulky setups, preventing effective encoding and integration with mobile devices. This study introduces a snapshot spectral imaging system that employs a compact NIR metasurface featuring 25 distinct C4 symmetry structures. Benefitting from the sufficient spectral variety and low correlation coefficient among these structures, center-wavelength accuracy of 0.05 nm and full width at half maximum accuracy of 0.13 nm are realized. The system maintains good performance within an incident angle of 1°. A novel meta-attention network prior iterative denoising reconstruction (MAN-IDR) algorithm is developed to achieve high-quality NIR spectral imaging. By leveraging the designed metasurface and MAN-IDR, the NIR spectral images, exhibiting precise textures, minimal artifacts in the spatial dimension, and little crosstalk between spectral channels, are reconstructed from a single grayscale recording image. The proposed NIR metasurface and MAN-IDR hold great promise for further integration with smartphones and drones, guaranteeing the adoption of NIR spectral imaging in real-world scenarios such as aerospace, health diagnostics, and machine vision.
+       Metalenses can integrate the functionalities of multiple optical components thanks to the unprecedented capability of optical metasurfaces in light control. With the rapid development of optical metasurfaces, metalenses continue to evolve. Polarization and color play a very important role in understanding optics and serve as valuable tools for gaining insights into our world. Benefiting from the design flexibility of metasurfaces, we propose and experimentally demonstrate a super metalens that can realize multifaceted control of focal points along any 3D curved trajectory. The wavelengths and polarization states of all focal points are engineered in a desirable manner. The super metalens can simultaneously realize customized 3D positioning, polarization states, and wavelengths of focal points, which are experimentally demonstrated with incident wavelengths ranging from 501 to 700 nm. We further showcase the application of the developed super metalenses in 3D optical distance measurement. The compact nature of metasurfaces and unique properties of the proposed super metalenses hold promise to dramatically miniaturize and simplify the optical architecture for applications in optical metrology, imaging, detection, and security.
      </p>
      <p style="
        color:#333333;
