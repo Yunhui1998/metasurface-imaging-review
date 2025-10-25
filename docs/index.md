@@ -5974,7 +5974,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Flexible intelligent microwave metasurface with shape-guided adaptive programming.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5987,7 +5987,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Empowering the reconfigurable metasurfaces (RM) with the capability to be mechanically deformable highlights the possibility to manipulate the electromagnetic (EM) wave across arbitrary surfaces. Such ambition is hampered by the absence of adaptivity to shape variation in current programming strategies for RM. Herein, we present a flexible intelligent surface platform (FISP) as a solution to achieve flexible RM with highly stable performance under dynamic deformation. The geometry acquisition module in FISP enables real-time awareness of RM’s deformation with the conformal sensor array. By merging the actual shape of flexible RM into the input of the adaptive algorithm driven by the artificial neural network, the deformed flexible RM in FISP can be autonomously encoded by the bias voltage supply module to ensure robust performance under various deformation conditions. The versatility of FISP in manipulating EM waves is demonstrated by its applications in electromagnetic illusion, carpet cloaking, and data transmission, illustrating the prospects for seamlessly integrating flexible electronics and RM in the development of future EM metasurfaces.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6010,7 +6012,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Nonlocal phase-change metaoptics for reconfigurable nonvolatile image processing.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6023,7 +6025,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       The next generation of smart imaging and vision systems will require compact and tunable optical computing hardware to perform high-speed and low-power image processing. These requirements are driving the development of computing metasurfaces to realize efficient front-end analog optical pre-processors, especially for edge detection capability. Yet, there is still a lack of reconfigurable or programmable schemes, which may drastically enhance the impact of these devices at the system level. Here, we propose and experimentally demonstrate a reconfigurable flat optical image processor using low-loss phase-change nonlocal metasurfaces. The metasurface is configured to realize different transfer functions in spatial frequency space, when transitioning the phase-change material between its amorphous and crystalline phases. This enables edge detection and bright field imaging modes on the same device. The metasurface is compatible with a large numerical aperture of ~0.5, making it suitable for high resolution coherent optical imaging microscopy. The concept of phase-change reconfigurable nonlocal metasurfaces may enable emerging applications of artificial intelligence-assisted imaging and vision devices with switchable multitasking.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6046,7 +6050,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Monolithic Spin-Multiplexing Metalens for Dual-Functional Imaging.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6059,7 +6063,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Optical microscopic imaging technology is an essential tool for exploring and understanding the microcosmic realm. Among various imaging modes, bright-field and spiral-phase-contrast imaging are widely used, each capable of extracting distinct morphological information from target objects. However, conventional microscopic imaging devices and systems typically operate in a single mode or require additional modules for mode switching. Here, we present a monolithic photonic spin-multiplexing metalens operating in the red and near-infrared regions, which leverages a spin-multiplexed point spread function to seamlessly switch between bright-field and spiral-phase-contrast imaging modes by simply adjusting the spin state of illumination light. The device demonstrates operational efficiency of up to 80% and imaging resolution better than 4.4 µm (228 lp mm−1) in both modes. The metalens's dual-functional imaging performance is validated with both amplitude-type (custom-made metallic patterns) and phase-type (frog tongue epithelium cells and onion epidermal cells) objects. This work provides a viable solution for compact, lightweight, and easily switchable multi-functional microscopic imaging systems, opening new avenues for applications in biomedical imaging, clinical diagnostics, and material characterization.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6082,7 +6088,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurfaces for infrared multimodal microscopy phase contrast and bright field.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6095,7 +6101,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Different imaging modalities are used to visualize the diverse information carried in an optical field. Two prominent non-computational modalities include bright field and phase contrast microscopy that can create contrast in an image related to the amplitude and phase features of a sample, respectively. Often, the size and cost of the equipment typically required for these applications, such as bulky microscopes, can limit their availability to well-equipped laboratories. Furthermore, capturing both of the phase contrast and bright field images on the same camera in a microscope typically requires interchanging optical components. Metasurfaces are ultra-thin nanostructures that can merge both of these operations into a single miniaturized device in the push toward shrinking the size of imaging systems. Here, a silicon-based metasurface that supports a Mie resonance is demonstrated to perform non-computational, near-infrared phase contrast and bright field multimodal microscopy that can be tuned by changing the polarization of the illumination. We performed experiments using optical fields with phase variations synthesized by a spatial light modulator and introduced by propagation through semi-transparent samples, including C. elegans, unstained human prostate cancer cells, and breast tissue. The results demonstrate the potential of metasurfaces to be used in miniaturized optical systems for label-free point-of-care testing beyond the laboratory.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6118,7 +6126,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Angle Multifunctional Dichroism in Metasurfaces.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6131,7 +6139,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       We demonstrate metasurfaces with strong polarization dichroism that depends on the angle of incidence. We present original designs obtained through topology optimization that selectively transmit specific linear or circular polarizations at different incident angles, while the orthogonal polarization transmission is suppressed. The designed metasurfaces exceed 95% transmission efficiency and 50× extinction ratio within the target angle ranges. The experimental characterization of fabricated metasurfaces confirms the desired operation with 90% transmission efficiency and 10× polarization extinction ratio. These results provide important insights into nonlocal and k-space engineering of metasurface response, and the results reveal new opportunities for future multifunctional and angle-selective polarization devices that can find applications in specialized optical instruments and end-user devices.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6154,7 +6164,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Flexible Metasurfaces for Multifunctional Interfaces.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6167,7 +6177,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Optical metasurfaces, capable of manipulating the properties of light with a thickness at the subwavelength scale, have been the subject of extensive investigation in recent decades. This research has been mainly driven by their potential to overcome the limitations of traditional, bulky optical devices. However, most existing optical metasurfaces are confined to planar and rigid designs, functions, and technologies, which greatly impede their evolution toward practical applications that often involve complex surfaces. The disconnect between two-dimensional (2D) planar structures and three-dimensional (3D) curved surfaces is becoming increasingly pronounced. In the past two decades, the emergence of flexible electronics has ushered in an emerging era for metasurfaces. This review delves into this cutting-edge field, with a focus on both flexible and conformal design and fabrication techniques. Initially, we reflect on the milestones and trajectories in modern research of optical metasurfaces, complemented by a brief overview of their theoretical underpinnings and primary classifications. We then showcase four advanced applications of optical metasurfaces, emphasizing their promising prospects and relevance in areas such as imaging, biosensing, cloaking, and multifunctionality. Subsequently, we explore three key trends in optical metasurfaces, including mechanically reconfigurable metasurfaces, digitally controlled metasurfaces, and conformal metasurfaces. Finally, we summarize our insights on the ongoing challenges and opportunities in this field.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6190,7 +6202,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multifunctional Metasurface Holography and Spot Cloud Projection.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6203,7 +6215,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Multifunctionality, integration, and miniaturization are the mainstream trends in modern device development. However, optical display and depth perception, essential for innovative applications like intelligent driving and mixed reality, are typically achieved separately in complex and bulky optical systems. Metasurfaces, ultrathin artificial optical surfaces with strong light–matter interaction capabilities at the nanoscale, offer a versatile platform for creating multifunctional, highly integrated, and miniaturized devices by fully exploring spatial multiplexing and utilizing variables like location, polarization, and frequency. In this study, a multifunctional metasurface that integrates meta-holography with Dammann gratings is presented. By engineering the phase profile, the device can display specific holographic images in the Fresnel region while simultaneously producing a high-density spot cloud with over 37 000 spots covering the entire half space. As a proof-of-concept, a projection and reconstruction experiment is performed to elaborate its potential for retrieving three-dimensional (3D) spatial information of real scenarios. The simultaneous generation of display and point cloud holds significant promise for applications in cutting-edge imaging technologies such as intelligent driving and robot vision.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6226,7 +6240,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Detection and anti-detection with microwave-infrared compatible camouflage using asymmetric composite metasurface.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6239,7 +6253,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Detection and anti-detection with multispectral camouflage are of pivotal importance, while suffer from significant challenges due to the inherent contradiction between detection and anti-detection and conflict microwave and infrared (IR) stealth mechanisms. Here, a strategy is proposed to asymmetrically control transmitted microwave wavefront under radar-IR bi-stealth scheme using composite metasurface. It is engineered composed of infrared stealth layer (IRSL), microwave absorbing layer (MAL), and asymmetric microwave transmissive structure (AMTS) with polarization conversion from top to bottom. Therein, IR emissivity, microwave reflectivity, and transmissivity are simultaneously modulated by elaborately designing the filling ratio of ITO square patches on IRSL, which ensures both efficient microwave transmission and IR camouflage. Furthermore, full-polarized backward microwave stealth is achieved on MAL by transmitting and absorbing microwaves under x- and y- polarization, respectively, while forward wavefront is controlled by precise curvature phase compensation on AMTS according to ray-tracing technology. For verification, a proof-of-concept metadevice is numerically and experimentally characterized. Both results coincide well, demonstrating spiral detective wavefront manipulation under y-polarized forward wave excitation while effective reduction of radar cross section within 8–18 GHz and low IR emissivity (<0.3) for backward detection. This strategy provides a new paradigm for integration of detection and anti-detection with multispectral camouflage.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6262,7 +6278,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/A high-performance ultra-wideband metasurface absorber and thermal emitter for solar energy harvesting and thermal applications.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6275,7 +6291,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Solar radiation is the Earth's most plentiful renewable energy source. Metasurface-based nanostructures can store solar energy efficiently and exhibit consistent behavior when interacting with light waves. This study investigates an ultra-thin, ultra-wideband solar absorber and thermal emitter that operates in the 400–5000 nm spectrum. The proposed structure design consists of a thin MXene monolayer at the top, followed by a nickel-made fractal L-shaped resonator film mounted on a SiO2 substrate. This device achieves greater than 90% of the aggregative absorption over the 4133 nm ultra-wideband region ranging from 867 nm to 5000 nm. Within its operational band, the solar absorber exhibits excellent solar energy storage capabilities under the solar AM 1.5 model curve. Furthermore, the absorber structure maintains a stable thermal radiation efficiency of 94.5–95.5% over the temperature range of 300–700 K. In addition, the physical mechanism underlying the device's ultra-wideband high absorption characteristics is adequately explained using impedance matching theory and the distribution of surface current density at high absorption wavelengths. The proposed structure design's symmetry shows excellent resilience to polarization state variations as well as wide angular stability to maintain high absorption rate. Given all of these advantages, the proposed structure would be highly suitable for solar energy and thermal radiation applications.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6298,7 +6316,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multifunctional ultrathin metasurface with a low radar cross section and variable infrared emissivity.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6311,7 +6329,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       The development of stealth devices that are compatible with both infrared (IR) and radar systems remains a significant challenge, as the material properties required for effective IR and radar stealth are often contradictory. In this work, based on an IR electrochromic device (IR-ECD), concepts of metamaterial manipulating electromagnetic waves are applied to develop a multifunctional ultrathin metasurface with a low radar cross section (RCS) and variable infrared emissivity. This paper presents a linear-to-linear polarization conversion metasurface (PCM) designed by hollowing the IR-ECD. In this way, the IR-ECD based on polyaniline (PANI) can also modulate the reflection waves in the microwave band without affecting its features in the infrared region. Thus, the proposed metasurface integrates both microwave stealth and variable infrared emissivity through a single layer. The measured results show that a 10 dB RCS reduction is achieved in the band of 8.46–9.5 GHz, and the infrared emissivity can be adjusted from 0.870 to 0.513 in the infrared stealth band of 8–14 μm. Due to the ultrathin thickness (only 0.081λ0 at 9 GHz), low RCS in the X-band, and variable infrared emissivity, the designed multifunctional stealth metasurface has promising applications on military platforms with various surrounding environments.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6334,7 +6354,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multifunctional Metasurface Simultaneous Beam Steering, Polarization Conversion, and Phase Offset.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6347,7 +6367,8 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       A varactor-based reconfigurable multifunctional metasurface capable of simultaneous beam steering, polarization conversion and phase offset is proposed in this communication. The unit cell is designed to naturally decompose the incident waves into two equal-amplitude orthogonal linear components, and by integrating varactors, the reflection phase of the field components can be engineered from −180° to 180°. Taking advantage of the infinite states of the varactors, this design integrates a new function, the phase offset. After simulation validation of its capability, a four-layer 7 by 6 unit 1-D prototype is fabricated as a printed circuit board. It is experimentally demonstrated that it switches between X/Y and circular polarization with more than 0.9 polarization conversion rate (PCR), while reaching ±45° steering and ±180° phase offset.
+
      </p>
      <p style="
        color:#333333;
@@ -6370,7 +6391,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurface-enhanced multifunctional flag nanogenerator for efficient wind energy harvesting and environmental sensing.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6383,7 +6404,8 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Wind energy, as a widely distributed and renewable energy resource, plays a crucial role in promoting self-powered wireless sensor networks and wind speed sensing. However, current research predominantly focuses on specific application purposes, lacking comprehensive investigations into integrated solutions. In this paper, a metasurface-enhanced multifunctional flag-type triboelectric nanogenerator (FTENG) is introduced, which enables efficient wind energy harvesting as well as accurate wind speed sensing over a wide range of wind speeds via the synergistic effect of metasurface treatment on the flagpole and flexible flag fixation approach. The flexible fixation maximally utilizes the upstream wake of metasurface configurations, boosting the energy harvesting power density by up to 23 times. The metasurface-enhanced FTENG with careful optimization, striking a balance between energy harvesting and sensing capabilities, achieves a linearity of 0.992 over a wind speed range of 2.3–14.4 m/s and a peak power density of 250 mW/m2. Finally, the FTENG demonstrates its excellent abilities to light LEDs, power the wireless sensor node (WSN), and serve as a self-powered environmental sensor. This work opens up an impactful possibility for developing versatile self-powered electronics by employing metasurface-enhanced wind energy harvesting techniques.
+
      </p>
      <p style="
        color:#333333;
@@ -6406,7 +6428,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/On-chip multifunctional metasurfaces with full-parametric multiplexed Jones matrix.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6419,7 +6441,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       On-chip metasurface for guided wave radiation works as an upgrade of conventional grating couplers, enriching the interconnection between guided wave and free-space optical field. However, the number of controllable parameters in equivalent Jones matrix of on-chip metasurface is limited that restricts the channels for multiplexing. Here, a supercell design based on detour phase and geometric phase has been proposed to reach full-parametric modulation of Jones matrix. As proof of concept, four independent sets of amplitude-phase channels have been experimentally demonstrated through a single on-chip metasurface. Moreover, through joint modulation of three phase mechanisms including detour phase, geometric phase and propagation phase, the Jones matrix could be decoupled from forward- and backward-propagating guided waves for direction multiplexing. This work paves the way for guided wave radiation towards high-capacity multiplexing and may further extend its application in optical communications, optical displays and augmented/virtual reality.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6442,7 +6466,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multiplexing near- and far-field functionalities with high-efficiency bi-channel metasurfaces.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6455,7 +6479,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Propagating waves and surface waves are two distinct types of light-transporting modes, the free control of which are both highly desired in integration photonics. However, previously realized devices are bulky in sizes, inefficient, and/or can only achieve one type of light-manipulation functionality with a single device. Here, we propose a generic approach to design bi-channel meta-devices, constructed by carefully selected meta-atoms possessing reflection phases of both structural-resonance and geometric origins, which can exhibit two distinct light-manipulation functionalities in near-field (NF) and far-field (FF) channels, respectively. After characterizing the scattering properties of basic meta-atoms and briefly stating the theoretical strategy, we design/fabricate three different meta-devices and experimentally characterize their bi-channel wave-control functionalities in the telecom regime. Our experiments show that the first two devices can multiplex the generations of NF and FF optical vortices with different topological charges, while the third one exhibits anomalous surface plasmon polariton focusing in the NF and hologram formation in the FF simultaneously. Our results expand the wave-control functionalities of metasurfaces to all wave-transporting channels, which may inspire many exciting applications in integration optics.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6478,7 +6504,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Dynamic nonlocal metasurface for multifunctional integration via phase-change materials.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6491,7 +6517,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Non-local metasurface supporting geometric phases at bound states in the continuum (BIC) simultaneously enables sharp spectral resonances and spatial wavefront shaping, thus providing a diversified optical platform for multifunctional devices. However, a static nonlocal metasurface cannot manipulate multiple degrees of freedom (DOFs), making it difficult to achieve multifunctional integration and be applied in different scenarios. Here, we presented and demonstrated phase-change non-local metasurfaces that can realize dynamic manipulation of multiple DOFs including resonant frequency, Q values, band, and spatial wavefront. Accordingly, a metasurface integrating multiple distinct functions is designed, as a proof-of-concept demonstration. Utilizing the geometry phase of quasi-BIC and the tunability of vanadium dioxide (VO2), a dynamic meta-lens is achieved by tailoring spatial light response at quasi-BIC in the temperature range from room temperature to 53 °C. Simultaneously, the sharp Fano resonance of quasi-BIC enables the metasurface to serve as an optical sensor in the mid-infrared band, yielding a sensitivity of 7.96 THz/RIU at room temperature. Furthermore, at the metallic state of VO2 (80 °C), the designed metasurface converts into a mid-infrared broadband absorber, achieving higher than 80 % absorptivity and an average absorption of 90 % from 28.62 THz to 37.56 THz. The proposed metasurface enabling multifunctional performances in different temperatures can effectively improve the availability of devices and find more new and complex scenarios in sensing, imaging, and communications.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6514,7 +6542,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/A Meta-Device for Intelligent Depth Perception.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6527,7 +6555,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       The optical illusion affects depth-sensing due to the limited and specific light-field information acquired by single-lens imaging. The incomplete depth information or visual deception would cause cognitive errors. To resolve this problem, an intelligent and compact depth-sensing meta-device that is miniaturized, integrated, and applicable for diverse scenes in all light levels is demonstrated. The compact and multifunction stereo vision system adopts an array with 3600 achromatic meta-lenses and a size of 1.2 × 1.2 mm2 to measure the depth over a 30 cm range with deep-learning support. The meta-lens array can act as multiple imaging lenses to collect light field information. It can also work with a light source as an active optical device to project a structured light. The meta-lens array can serve as the core functional component of a light-field imaging system under bright conditions or a structured-light projection system in the dark. The depth information in both ways can be analyzed and extracted by the convolutional neural network. This work provides a new avenue for the applications such as autonomous driving, machine vision, human–computer interaction, augmented reality, biometric identification, etc.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6550,7 +6580,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Real-time programmable metasurface for terahertz multifunctional wave front engineering.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6563,7 +6593,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Terahertz (THz) technologies have become a focus of research in recent years due to their prominent role in envisioned future communication and sensing systems. One of the key challenges facing the field is the need for tools to enable agile engineering of THz wave fronts. Here, we describe a reconfigurable metasurface based on GaN technology with an array-of-subarrays architecture. This subwavelength-spaced array, under the control of a 1-bit digital coding sequence, can switch between an enormous range of possible configurations, providing facile access to nearly arbitrary wave front control for signals near 0.34 THz. We demonstrate wide-angle beam scanning with 1° of angular precision over 70 GHz of bandwidth, as well as the generation of multi-beam and diffuse wave fronts, with a switching speed up to 100 MHz. This device, offering the ability to rapidly reconfigure a propagating wave front for beam-forming or diffusively scattered wide-angle coverage of a scene, will open new realms of possibilities in sensing, imaging, and networking.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6586,7 +6618,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurface-Enabled 3-in-1 Microscopy.webp"
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6599,7 +6631,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Edge enhancement and polarization detection are critical to image transparent or low-contrast samples. However, currently available systems are limited to performing only a single functionality. To meet the requirement of system integration, there is a pressing need for a microscope with multiple functionalities. Here, we propose and develop a microscope with three different functionalities based on spatial multiplexing and polarization splitting. A novel geometric metasurface (MS) is used to realize a spiral phase profile and two phase gradient profiles along two vertical directions, which can perform such an extremely challenging optical task. This is the first demonstration of a 3-in-1 microscope that can simultaneously obtain five images with different optical properties in an imaging plane for the same sample. Imaging experiments with different samples verify its capability to simultaneously perform edge imaging, polarimetric imaging, and conventional microscope imaging. Benefiting from the compactness and multifunctionality of the optical MS device, the integration does not increase the volume of the microscope. This approach can enable users to visualize the multiple facets of samples in real-time.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6622,7 +6656,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Reconfigurable multifunctional metasurfaces employing hybrid phase-change plasmonic architecture.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6635,7 +6669,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       We present a hybrid device platform for creating an electrically reconfigurable metasurface formed by the integration of plasmonic nanostructures with phase-change material germanium antimony telluride (GST). By changing the phase of GST from amorphous to crystalline through Joule heating, a large range of responses from the metasurface can be achieved. Furthermore, by using the intermediate phases of GST, the metasurface can interact with the incident light in both over-coupling and under-coupling regimes, leading to an inherently broadband response. Through a detailed investigation of the nature of the fundamental modes, we demonstrate that changing the crystalline phase of the GST at the pixel-level enables an effective control over the key properties (i.e., amplitude, phase, and polarization) of incident light. This leads to the realization of a broadband electrically tunable multifunctional metadevice enabling beam switching, focusing, steering, and polarization conversion. Such a hybrid structure offers a high-speed, broadband, and nonvolatile reconfigurable paradigm for electrically programmable optical devices such as switches, holograms, and polarimeters.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6658,7 +6694,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Optical metasurfaces towards multifunctionality and tunability.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6671,7 +6707,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Optical metasurfaces is a rapidly developing research field driven by its exceptional applications for creating easy-to-integrate ultrathin planar optical devices. The tight confinement of the local electromagnetic fields in resonant photonic nanostructures can boost many optical effects and offer novel opportunities for the nanoscale control of light–matter interactions. However, once the structure-only metasurfaces are fabricated, their functions will be fixed, which limits it to make breakthroughs in practical applications. Recently, persistent efforts have led to functional multiplexing. Besides, dynamic light manipulation based on metasurfaces has been demonstrated, providing a footing ground for arbitrary light control in full space-time dimensions. Here, we review the latest research progress in multifunctional and tunable metasurfaces. Firstly, we introduce the evolution of metasurfaces and then present the concepts, the basic principles, and the design methods of multifunctional metasurface. Then with more details, we discuss how to realize metasurfaces with both multifunctionality and tunability. Finally, we also foresee various future research directions and applications of metasurfaces including innovative design methods, new material platforms, and tunable metasurfaces based metadevices.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6694,7 +6732,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multifunctional and Transformative Metaphotonics with Emerging Materials.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6707,7 +6745,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Future technologies underpinning multifunctional physical and chemical systems and compact biological sensors will rely on densely packed transformative and tunable circuitry employing nanophotonics. For many years, plasmonics was considered as the only available platform for subwavelength optics, but the recently emerged field of resonant metaphotonics may provide a versatile practical platform for nanoscale science by employing resonances in high-index dielectric nanoparticles and metasurfaces. Here, we discuss the recently emerged field of metaphotonics and describe its connection to material science and chemistry. For tunabilty, metaphotonics employs a variety of the recently highlighted materials such as polymers, perovskites, transition metal dichalcogenides, and phase change materials. This allows to achieve diverse functionalities of metasystems and metasurfaces for efficient spatial and temporal control of light by employing multipolar resonances and the physics of bound states in the continuum. We anticipate expanding applications of these concepts in nanolasers, tunable metadevices, metachemistry, as well as a design of a new generation of chemical and biological ultracompact sensing devices.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6730,7 +6770,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multifunctional Metamaterials for Energy Harvesting and Vibration Control.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6743,7 +6783,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Multifunctional metamaterials (MFMs) capable of energy harvesting and vibration control are particularly attractive for smart structures, wearable/biointegrated electronics, and intelligent robotics. Here, a novel MFM based on triboelectric nanogenerators (TENGs), which can harvest environmental energy and reduce vibration simultaneously, is reported. The unit cells of the MFM consist of a local resonator, an integrated contact- separation mode TENG, and spiral-shaped connecting beams. A multiphysics theoretical model is developed for quantitatively evaluating the performance of the MFM by including the mechanical and electrical fields interactions, which is further validated by experimental testing. It is demonstrated that the TENG-based MFM can not only effectively harvest vibration energy to power electronics but also dramatically suppress low-frequency mechanical vibration. This work provides a new design and model for developing novel TENG-based MFMs for advanced smart systems used in a variety of applications.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6766,7 +6808,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Graphene-Based Optically Transparent Metasurface Capable of Dual-Polarized Modulation for Electromagnetic Stealth.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6779,7 +6821,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Microwave stealth technology with optical transparency is of great significance for solar-powered aircrafts (e.g., satellites or unmanned aerial vehicles) in increasingly complex electromagnetic environments. By coating them with optically transparent absorbing materials or devices, these large-sized solar panels could avoid detection by radar while maintaining highly efficient collection of solar energy. However, conventional microwave-absorbing materials/devices for solar panels suffer from bulky volume and fixed stealth performance that significantly hinders their practicality or multifunctionality. Particularly, dynamic modulation of microwave absorption for dual polarization remains a challenge. In this paper, we propose the design, fabrication, and characterization of an optically transparent and dynamically tunable microwave-absorbing metasurface that enables dual modulations (amplitude and frequency) independently for two orthogonal linearly polarized excitations. The tunability of the proposed metasurface is guaranteed by an elaborately designed anisotropic meta-atom composed of a patterned graphene structure whose electromagnetic responses for different polarizations can be dynamically and independently controlled via bias voltages. The dual tunability in such a graphene-based absorbing metasurface is experimentally measured, which agrees well with those numerical results. We further build an equivalent lumped circuit model to analyze the physical relation between the tunable sheet resistance of graphene and the polarization-independent modulations of the metasurface. Taking into account the advantages of optical transparency and flexibility, the proposed microwave-absorbing metasurface significantly enhances the multitasking stealth performance in complex scenarios and has the potential for advanced solar energy devices.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6802,7 +6846,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multifunctional metasurfaces enabled by simultaneous and independent control of phase and amplitude for orthogonal polarization states.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6815,7 +6859,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Monochromatic light can be characterized by its three fundamental properties: amplitude, phase, and polarization. In this work, we propose a versatile, transmission-mode all-dielectric metasurface platform that can independently manipulate the phase and amplitude for two orthogonal states of polarization in the visible frequency range. For proof-of-concept experimental demonstration, various single-layer metasurfaces composed of subwavelength-spaced titanium-dioxide nanopillars are designed, fabricated, and characterized to exhibit the ability of polarization-switchable multidimensional light-field manipulation, including polarization-switchable grayscale nanoprinting, nonuniform cylindrical lensing, and complex-amplitude holography. We envision the metasurface platform demonstrated here to open new possibilities toward creating compact multifunctional optical devices for applications in polarization optics, information encoding, optical data storage, and security.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6838,7 +6884,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Electro-optically Tunable Multifunctional Metasurfaces.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6851,7 +6897,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Shaping the flow of light at the nanoscale has been a grand challenge for nanophotonics over decades. It is now widely recognized that metasurfaces represent a chip-scale nanophotonics array technology capable of comprehensively controlling the wavefront of light via appropriately configuring subwavelength antenna elements. Here, we demonstrate a reconfigurable metasurface that is multifunctional, i.e., notionally capable of providing diverse optical functions in the telecommunication wavelength regime, using a single compact, lightweight, electronically controlled array with no moving parts. By electro-optical control of the phase of the scattered light from each identical individual metasurface element in an array, we demonstrate a single prototype multifunctional programmable metasurface that is capable of both dynamic beam steering and reconfigurable light focusing. Reconfigurable multifunctional metasurfaces with arrays of tunable optical antennas thus can perform arbitrary optical functions by programmable array-level control of scattered light phase, amplitude, and polarization, similar to dynamic and programmable memories in electronics.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6874,7 +6922,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurface-Empowered Optical Multiplexing and Multifunction.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6887,7 +6935,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Metasurfaces are planar photonic elements composed of subwavelength nanostructures, which can deeply interact with light and exploit new degrees of freedom (DOF) to manipulate optical fields. In the past decade, metasurfaces have drawn great interest from the scientific community due to their profound potential to arbitrarily control light. Here, recent developments of multiplexing and multifunctional metasurfaces, which enable concurrent tasks through a dramatic compact design, are reviewed. The fundamental properties, design strategies, and applications of multiplexing and multifunctional metasurfaces are then discussed. First, recent progress on angular momentum multiplexing, including its behavior under different incident conditions, is considered. Second, a detailed overview of polarization-controlled, wavelength-selective, angle-selective, and reconfigurable multiplexing/multifunctional metasurfaces is provided. Then, the integrated and on-chip design of multifunctional metasurfaces is addressed. Finally, future directions and potential applications are presented.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6910,7 +6960,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Ultrafast reprogrammable multifunctional vanadium-dioxide-assisted metasurface for dynamic THz wavefront engineering.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6923,7 +6973,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       In this paper, for the first time, a new generation of ultrafast reprogrammable multi-mission bias encoded metasurface is proposed for dynamic terahertz wavefront engineering by employing VO2 reversible and fast monoclinic to tetragonal phase transition. The multi-functionality of our designed VO2 based coding metasurface (VBCM) was guaranteed by elaborately designed meta-atom comprising three-patterned VO2 thin films whose operational statuses can be dynamically tuned among four states of “00”-“11” by merely changing the biasing voltage controlled by an external Field-programmable gate array platform. Capitalizing on such meta-atom design and by driving VBCM with different spiral-like and spiral-parabola-like coding sequences, single vortex beam and focused vortex beam with interchangeable orbital angular momentum modes were satisfactorily generated respectively. Additionally, by adopting superposition theorem and convolution operation, symmetric/asymmetric multiple beams and arbitrarily-oriented multiple vortex beams in pre-demined directions with different topological charges are realized. Several illustrative examples successfully have clarified that the proposed VBCM is a promising candidate for solving crucial terahertz challenges such as high data rate wireless communication where ultrafast switching between several missions is required.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6946,7 +6998,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Single-shot quantitative phase gradient microscopy using a system of multifunctional metasurfaces.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6959,7 +7011,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Quantitative phase imaging (QPI) of transparent samples plays an essential role in multiple biomedical applications, and miniaturizing these systems will enable their adoption into point-of-care and in vivo applications. Here, we propose a compact quantitative phase gradient microscope (QGPM) based on two dielectric metasurface layers, inspired by a classical differential interference contrast (DIC) microscope. Owing to the multifunctionality and compactness of the dielectric metasurfaces, the QPGM simultaneously captures three DIC images to generate a quantitative phase gradient image in a single shot. The volume of the metasurface optical system is on the order of 1 mm3. Imaging experiments with various phase resolution samples verify the capability to capture quantitative phase gradient data, with phase gradient sensitivity better than 92.3 mrad μm−1 and single-cell resolution. The results showcase the potential of metasurfaces for developing miniaturized QPI systems for label-free cellular imaging and point-of-care devices.
+
+
      </p>
      <p style="
        color:#333333;
@@ -6982,7 +7036,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/A hybrid invisibility cloak based on integration of transparent metasurfaces and zero-index materials.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6995,7 +7049,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       The invisibility cloak, a long-standing fantastic dream for humans, has become more tangible with the development of metamaterials. Recently, metasurface-based invisibility cloaks have been proposed and realized with significantly reduced thickness and complexity of the cloaking shell. However, the previous scheme is based on reflection-type metasurfaces and is thus limited to reflection geometry. In this work, by integrating the wavefront tailoring functionality of transparent metasurfaces and the wave tunneling functionality of zero-index materials, we have realized a unique type of hybrid invisibility cloak that functions in transmission geometry. The principle is general and applicable to arbitrary shapes. For experimental demonstration, we constructed a rhombic double-layer cloaking shell composed of a highly transparent metasurface and a double-zero medium consisting of dielectric photonic crystals with Dirac cone dispersions. The cloaking effect is verified by both full-wave simulations and microwave experimental results. The principle also reveals exciting possibilities for realizing skin-thick ultrathin cloaking shells in transmission geometry, which can eliminate the need for spatially varying extreme parameters. Our work paves a path for novel optical and electromagnetic devices based on the integration of metasurfaces and metamaterials.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7018,7 +7074,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Tunable Metasurface and Flat Optical Zoom Lens on a Stretchable Substrate.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7031,7 +7087,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       A mechanically reconfigurable metasurface that can continuously tune the wavefront is demonstrated in the visible frequency range by changing the lattice constant of a complex Au nanorod array fabricated on a stretchable polydimethylsiloxane substrate. It is shown that the anomalous refraction angle of visible light at 632.8 nm interacting with the tunable metasurface can be adjusted from 11.4° to 14.9° by stretching the substrate by ∼30%. An ultrathin flat 1.7× zoom lens whose focal length can continuously be changed from 150 to 250 μm is realized, which also demonstrates the potential of utilizing metasurfaces for reconfigurable flat optics.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7061,7 +7119,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Single-shot simultaneous intensity, phase and polarization imaging with metasurface.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7074,7 +7132,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Optical imaging of the intensity, phase and polarization distributions of optical fields is fundamental to numerous applications. Traditional methods rely on bulky optical components and require multiple measurements. Recently, metasurface-based (MS-based) imaging strategies have emerged as a promising solution to address these challenges. However, they have been primarily limited to capturing partial information of the three parameters, tailored to specific optical fields, which poses challenges when addressing arbitrary field distributions and achieving three-parameter imaging. In this study, we introduce an MS-based approach for single-shot optical imaging that simultaneously captures all three parameters of optical fields with arbitrary intensity, phase and polarization distributions. We experimentally validate the versatility of our method by conducting imaging of various types of optical fields with arbitrary well-defined distributions. The strategy presented in our work is expected to open up promising avenues for diverse applications, including imaging and optical communications.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7097,7 +7157,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Neural Network-Assisted End-to-End Design for Full Light Field Control of Meta-Optics.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7110,7 +7170,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Meta-optics, with unique light-matter interactions and extensive design space, underpins versatile and compact optical devices through flexible multi-parameter light field control. However, conventional designs struggle with the intricate interdependencies of nano-structural complex responses across wavelengths and polarizations at a system level, hindering high-performance full-light field control. Here, a neural network-assisted end-to-end design framework that facilitates global, gradient-based optimization of multifunctional meta-optics layouts for full light field control is proposed. Its superiority over separated design is showcased by utilizing the limited design space for multi-wavelength-polarization holography with enhanced performance (e.g., ≈6 × structural similarity index experimentally). By harnessing the dispersive full-parameter Jones matrix, orthogonal tri-polarization multi-wavelength-depth holography is further demonstrated, breaking conventional channel limitations. To highlight its versatility, non-orthogonal polarizations (>3) are showcased for arbitrary polarized-spectral multi-information processing applications in display, imaging, and computing. The comprehensive framework elevates light field control in meta-optics, delivering superior performance, enhanced functionality, and improved reliability, thereby paving the way for next-generation intelligent optical technologies.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7133,7 +7195,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurface array for single-shot spectroscopic ellipsometry.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7146,7 +7208,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Spectroscopic ellipsometry is a potent method that is widely adopted for the measurement of thin film thickness and refractive index. Most conventional ellipsometers utilize mechanically rotating polarizers and grating-based spectrometers for spectropolarimetric detection. Here, we demonstrated a compact metasurface array-based spectroscopic ellipsometry system that allows single-shot spectropolarimetric detection and accurate determination of thin film properties without any mechanical movement. The silicon-based metasurface array with a highly anisotropic and diverse spectral response is combined with iterative optimization to reconstruct the full Stokes polarization spectrum of the light reflected by the thin film with high fidelity. Subsequently, the film thickness and refractive index can be determined by fitting the measurement results to a proper material model with high accuracy. Our approach opens up a new pathway towards a compact and robust spectroscopic ellipsometry system for the high throughput measurement of thin film properties.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7169,7 +7233,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Multi-Dimensional Multiplexed Metasurface Holography by Inverse Design.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7182,7 +7246,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Multi-dimensional multiplexed metasurface holography extends holographic information capacity and promises revolutionary advancements for vivid imaging, information storage, and encryption. However, achieving multifunctional metasurface holography by forward design method is still difficult because it relies heavily on Jones matrix engineering, which places high demands on physical knowledge and processing technology. To break these limitations and simplify the design process, here, an end-to-end inverse design framework is proposed. By directly linking the metasurface to the reconstructed images and employing a loss function to guide the update of metasurface, the calculation of hologram can be omitted; thus, greatly simplifying the design process. In addition, the requirements on the completeness of meta-library can also be significantly reduced, allowing multi-channel hologram to be achieved using meta-atoms with only two degrees of freedom, which is very friendly to processing. By exploiting the proposed method, metasurface hologram containing up to 12 channels of multi-wavelength, multi-plane, and multi-polarization is designed and experimentally demonstrated, which exhibits the state-of-the-art information multiplexing capacity of the metasurface composed of simple meta-atoms. This method is conducive to promoting the intelligent design of multifunctional meta-devices, and it is expected to eventually accelerate the application of meta-devices in colorful display, imaging, storage and other fields.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7205,7 +7271,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Deep-learning-driven end-to-end metalens imaging.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7218,7 +7284,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Recent advances in metasurface lenses (metalenses) have shown great potential for opening a new era in compact imaging, photography, light detection, and ranging (LiDAR) and virtual reality/augmented reality applications. However, the fundamental trade-off between broadband focusing efficiency and operating bandwidth limits the performance of broadband metalenses, resulting in chromatic aberration, angular aberration, and a relatively low efficiency. A deep-learning-based image restoration framework is proposed to overcome these limitations and realize end-to-end metalens imaging, thereby achieving aberration-free full-color imaging for mass-produced metalenses with 10 mm diameter. Neural-network-assisted metalens imaging achieved a high resolution comparable to that of the ground truth image.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7241,7 +7309,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Chip-integrated metasurface full-Stokes polarimetric imaging sensor.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7254,7 +7322,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Polarimetric imaging has a wide range of applications for uncovering features invisible to human eyes and conventional imaging sensors. Chip-integrated, fast, cost-effective, and accurate full-Stokes polarimetric imaging sensors are highly desirable in many applications, which, however, remain elusive due to fundamental material limitations. Here we present a chip-integrated Metasurface-based Full-Stokes Polarimetric Imaging sensor (MetaPolarIm) realized by integrating an ultrathin (~600 nm) metasurface polarization filter array (MPFA) onto a visible imaging sensor with CMOS compatible fabrication processes. The MPFA is featured with broadband dielectric-metal hybrid chiral metasurfaces and double-layer nanograting polarizers. This chip-integrated polarimetric imaging sensor enables single-shot full-Stokes imaging (speed limited by the CMOS imager) with the most compact form factor, records high measurement accuracy, dual-color operation (green and red) and a field of view up to 40 degrees. MetaPolarIm holds great promise to enable transformative applications in autonomous vision, industry inspection, space exploration, medical imaging and diagnosis.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7277,7 +7347,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Infrared metasurface-enabled compact polarization nanodevices.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7290,7 +7360,8 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Infrared metasurface, especially that having a working range covering wavelengths from 0.75 to 25 μm, has been exploited as a revolutionary tool to manipulate the properties of electromagnetic waves owing to its potential applications in military and civilian fields. It owns the capacity to steer electromagnetic waves within subwavelength scale, with full degrees of freedom such as phase, amplitude and polarization, allowing the development of a number of planar meta-devices including the metalens, hologram, wave-plate and polarimeter. In particular, polarization, which determines the interaction of electromagnetic waves with matter, is important in almost every area of science. However, conventional materials for infrared polarization control inevitably introduce extra optical components and bulky configurations, hindering future miniaturization and integration. Moreover, compared with their short wavelength counterparts, polarization nanodevices in the infrared band and especially those in the long-wavelength infrared region have been far less explored due to the loss of material and immature fabrication techniques. Here, we review recent progress in the development of infrared metasurfaces in terms of generating, manipulating and detecting the polarization on standard and higher-order Poincaré spheres. The principles, typical strategies and emerging applications of these processes are introduced. We also discuss the challenges and outlook of future developments in this emerging field.
+
      </p>
      <p style="
        color:#333333;
@@ -7313,7 +7384,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/A Meta-Device for Intelligent Depth Perception.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7326,7 +7397,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       The optical illusion affects depth-sensing due to the limited and specific light-field information acquired by single-lens imaging. The incomplete depth information or visual deception would cause cognitive errors. To resolve this problem, an intelligent and compact depth-sensing meta-device that is miniaturized, integrated, and applicable for diverse scenes in all light levels is demonstrated. The compact and multifunction stereo vision system adopts an array with 3600 achromatic meta-lenses and a size of 1.2 × 1.2 mm2 to measure the depth over a 30 cm range with deep-learning support. The meta-lens array can act as multiple imaging lenses to collect light field information. It can also work with a light source as an active optical device to project a structured light. The meta-lens array can serve as the core functional component of a light-field imaging system under bright conditions or a structured-light projection system in the dark. The depth information in both ways can be analyzed and extracted by the convolutional neural network. This work provides a new avenue for the applications such as autonomous driving, machine vision, human–computer interaction, augmented reality, biometric identification, etc.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7349,7 +7422,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Dynamic brain spectrum acquired by a real-time ultraspectral imaging chip with reconfigurable metasurfaces.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7362,7 +7435,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Spectral imaging paves the way for various fields, particularly in biomedical research. However, spectral imaging, mainly depending on spatial or temporal scanning, cannot achieve high temporal, spatial, and spectral resolution simultaneously. In this study, we demonstrated a silicon real-time ultraspectral imaging chip based on reconfigurable metasurfaces, comprising 155,216 (356*436) image-adaptive microspectrometers with ultra-high center-wavelength accuracy of 0.04 nm and spectral resolution of 0.8 nm. It is employed for imaging brain hemodynamics, and the dynamic spectral absorption properties of deoxyhemoglobin and oxyhemoglobin in a rat barrel cortex were obtained, which enlighten spectroscopy in vivo studies and other real-time applications.
      </p>
      <p style="
        color:#333333;
@@ -7385,7 +7458,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurface-enabled on-chip multiplexed diffractive neural networks in the visible.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7398,7 +7471,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Replacing electrons with photons is a compelling route toward high-speed, massively parallel, and low-power artificial intelligence computing. Recently, diffractive networks composed of phase surfaces were trained to perform machine learning tasks through linear optical transformations. However, the existing architectures often comprise bulky components and, most critically, they cannot mimic the human brain for multitasking. Here, we demonstrate a multi-skilled diffractive neural network based on a metasurface device, which can perform on-chip multi-channel sensing and multitasking in the visible. The polarization multiplexing scheme of the subwavelength nanostructures is applied to construct a multi-channel classifier framework for simultaneous recognition of digital and fashionable items. The areal density of the artificial neurons can reach up to 6.25 × 106 mm−2 multiplied by the number of channels. The metasurface is integrated with the mature complementary metal-oxide semiconductor imaging sensor, providing a chip-scale architecture to process information directly at physical layers for energy-efficient and ultra-fast image processing in machine vision, autonomous driving, and precision medicine.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7421,7 +7496,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Ultra-compact snapshot spectral light-field imaging.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7434,7 +7509,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Ideal imaging, which is constantly pursued, requires the collection of all kinds of optical information of the objects in view, such as three-dimensional spatial information (3D) including the planar distribution and depth, and the colors, i.e., spectral information (1D). Although three-dimensional spatial imaging and spectral imaging have individually evolved rapidly, their straightforward combination is a cumbersome system, severely hindering the practical applications of four-dimensional (4D) imaging. Here, we demonstrate the ultra-compact spectral light-field imaging (SLIM) by using a transversely dispersive metalens array and a monochrome imaging sensor. With only one snapshot, the SLIM presents advanced imaging with a 4 nm spectral resolution and near-diffraction-limit spatial resolution. Consequently, visually indistinguishable objects and materials can be discriminated through SLIM, which promotes significant progress towards ideal plenoptic imaging.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7457,7 +7534,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/An optic to replace space and its application towards ultra-thin imaging systems.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7470,7 +7547,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       1Centuries of effort to improve imaging has focused on perfecting and combining lenses to obtain better optical performance and new functionalities. The arrival of nanotechnology has brought to this effort engineered surfaces called metalenses, which promise to make imaging devices more compact. However, unaddressed by this promise is the space between the lenses, which is crucial for image formation but takes up by far the most room in imaging systems. Here, we address this issue by presenting the concept of and experimentally demonstrating an optical ‘spaceplate’, an optic that effectively propagates light for a distance that can be considerably longer than the plate thickness. Such an optic would shrink future imaging systems, opening the possibility for ultra-thin monolithic cameras. More broadly, a spaceplate can be applied to miniaturize important devices that implicitly manipulate the spatial profile of light, for example, solar concentrators, collimators for light sources, integrated optical components, and spectrometers.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7493,7 +7572,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metalens-integrated compact imaging devices for wide-field microscopy.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7506,7 +7585,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Metasurfaces have demonstrated unprecedented capabilities in manipulating light with ultrathin and flat architectures. Although great progress has been made in the metasurface designs and function demonstrations, most metalenses still only work as a substitution of conventional lenses in optical settings, whose integration advantage is rarely manifested. We propose a highly integrated imaging device with silicon metalenses directly mounted on a complementary metal oxide semiconductor image sensor, whose working distance is in hundreds of micrometers. The imaging performances including resolution, signal-to-noise ratio, and field of view (FOV) are investigated. Moreover, we develop a metalens array with polarization-multiplexed dual-phase design for a wide-field microscopic imaging. This approach remarkably expands the FOV without reducing the resolution, which promises a non-limited space-bandwidth product imaging for wide-field microscopy. As a result, we demonstrate a centimeter-scale prototype for microscopic imaging, showing uniqueness of meta-design for compact integration.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7529,7 +7610,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurface-driven OLED displays beyond 10,000 pixels per inch.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7542,7 +7623,8 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Organic light-emitting diodes (OLEDs) have found wide application in high-resolution, large-area televisions and the handheld displays of smartphones and tablets. With the screen located some distance from the eye, the typical number of pixels per inch is in the region of hundreds. For near-eye microdisplays—for example, in virtual and augmented reality applications—the required pixel density runs to several thousand pixels per inch and cannot be met by present display technologies. Joo et al. developed a full-color, high-brightness OLED design based on an engineered metasurface as a tunable back-reflector. An ultrahigh density of 10,000 pixels per inch readily meets the requirements for the next-generation microdisplays that can be fabricated on glasses or contact lenses.
+
      </p>
      <p style="
        color:#333333;
@@ -7565,8 +7647,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
-         alt="Graphical abstract"
+         src="abstract image/Nano-optic endoscope for high-resolution optical coherence tomography in vivo.webp"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
      </div>
@@ -7578,7 +7659,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Acquisition of high-resolution images from within internal organs using endoscopic optical imaging has numerous clinical applications. However, difficulties associated with optical aberrations and the trade-off between transverse resolution and depth of focus significantly limit the scope of applications. Here, we integrate a metalens, with the ability to modify the phase of incident light at subwavelength level, into the design of an endoscopic optical coherence tomography catheter (termed nano-optic endoscope) to achieve near diffraction-limited imaging through negating non-chromatic aberrations. Remarkably, the tailored chromatic dispersion of the metalens in the context of spectral interferometry is utilized to maintain high-resolution imaging beyond the input field Rayleigh range, easing the trade-off between transverse resolution and depth of focus. We demonstrate endoscopic imaging in resected human lung specimens and in sheep airways in vivo. The combination of the superior resolution and higher imaging depth of focus of the nano-optic endoscope is likely to increase the clinical utility of endoscopic optical imaging.
+
+
      </p>
      <p style="
        color:#333333;
@@ -7601,7 +7684,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
+         src="abstract image/Metasurface optics for full-color computational imaging.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7614,7 +7697,9 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       1
+       Acquisition of high-resolution images from within internal organs using endoscopic optical imaging has numerous clinical applications. However, difficulties associated with optical aberrations and the trade-off between transverse resolution and depth of focus significantly limit the scope of applications. Here, we integrate a metalens, with the ability to modify the phase of incident light at subwavelength level, into the design of an endoscopic optical coherence tomography catheter (termed nano-optic endoscope) to achieve near diffraction-limited imaging through negating non-chromatic aberrations. Remarkably, the tailored chromatic dispersion of the metalens in the context of spectral interferometry is utilized to maintain high-resolution imaging beyond the input field Rayleigh range, easing the trade-off between transverse resolution and depth of focus. We demonstrate endoscopic imaging in resected human lung specimens and in sheep airways in vivo. The combination of the superior resolution and higher imaging depth of focus of the nano-optic endoscope is likely to increase the clinical utility of endoscopic optical imaging.
+
+
      </p>
      <p style="
        color:#333333;
