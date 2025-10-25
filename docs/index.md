@@ -2868,7 +2868,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -2881,7 +2881,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Stereoscopic imaging reveals the 3D morphology of objects by collecting dense optical data from multiple views. However, traditional active methods rely on structured light illumination, while passive methods require substantial bulky optical components, hindering the development of portable, real-time stereoimaging systems. Here, we demonstrate miniaturized passive snapshot polarimetric stereoscopic imaging (SPSIM) using a polarimetric metalens. This protocol outperforms commercial polarimetric cameras in efficiency and enables the separation of circular polarization (CP) components for full Stokes parameter acquisition. By incorporating polarimetric physical priors into the neural network, we significantly enhance the accuracy of the 3D reconstruction process, enabling instant stereoimaging from a single shot with low mean absolute error. The inclusion of CP information improves 3D surface detail reconstruction, achieving depth precision within 0.15 mm. Our SPSIM system is well suited for integration into miniaturized devices for use in extreme environments, while advancing next-generation high-resolution 3D imaging systems.
      </p>
      <p style="
        color:#333333;
@@ -2904,7 +2904,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Hyperspectral metachip-based 3d spatial map for cancer cell screening and quantification.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -2917,7 +2917,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       In this paper, compact terahertz (THz) metachips for hyperspectral screening and quantitative evaluation of human cancer cells is reported. This pixelated resonant metachips feature the resonance channel from 1 and 3 THz frequency with a record-high quality factor (up to 230). Through the interactions of various cancer cells of different concentrations, high-dimensional spectral signatures are obtained, which are further transformed into a spatial map for labelling and quantification purposes. The screening of up to 15 cancer cells is experimentally reported, with very high detecting accuracy of 93.33% and with attractive quantitative concentration sensitivity up to 1320 kHz cell mL−1. This hyperspectral metachips are low-cost, highly compact, and label-free for fast, high-throughput and high-sensitivity detections and evaluation of human cancer cells. This technology does not require clinical experience, representing an accessible technology for early diagnosis of cancer.
      </p>
      <p style="
        color:#333333;
@@ -2940,7 +2940,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot on-chip diffractive speckle spectrometer with high spectral channel density.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -2953,7 +2953,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       The research on chip-scale spectrometers is driven by the growing demand for miniaturized and integrated spectral sensors. The performance trade-off between spectral resolution and bandwidth is one of the primary challenges for the community. While substantial progress has been made toward a vast number of spectral channels to overcome this issue, they either relied on sophisticated tuning mechanisms or required huge chip areas. In this work, a single-shot spectrometer is demonstrated based on all passive on-chip diffractive metasurfaces which is able to create the speckle pattern with richness of spectral information. By scaling the diffractive structure to three layers of metasurfaces, the number of spectral channels resolved from the speckle can be significantly increased due to the cascaded diffraction behaviors. The device is fabricated via a standard silicon photonic foundry with CMOS compatible process. A measured resolution of 47 pm is achieved across the bandwidth of 40 nm, yielding up to 851 spectral channels within a compact footprint of 150 µm × 300 µm. The corresponding spectral channel density reaches 18911 ch mm−2. It provides a possible means to develop single-shot and compact on-chip spectrometers beyond the resolution-bandwidth limit.
      </p>
      <p style="
        color:#333333;
@@ -2976,7 +2976,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Dual jones matrices empowered six phase channels modulation with single-layer monoatomic metasurfaces.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -2989,7 +2989,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       A comprehensive manipulation of the Jones matrix phase channels is crucial for enhancing the information capacity and security of the metasurface. However, a single-layer planar metasurface, without the incorporation of chirality, can only achieve a maximum of three independent phase channels for single Jones matrix under either linear or circular polarization bases. Here, an effective strategy is proposed that utilizes dual Jones matrices in different polarization bases with a single-layer monoatomic metasurface, thus extending the number of independent phase channels to six. To encode six holographic images into these six phase channels, a three-step gradient descent algorithm is introduced. As a proof of principle, a metasurface consisting of arrays of monoatomic dielectric structure is designed and fabricated in each unit cell, which exhibits six independent holographic images in the far field. The demonstrated metasurface platform is expected to open up new possibilities for the development of optical devices for applications in high-capacity information storage, high-security encrypted communication, and high-solution optical displays.
      </p>
      <p style="
        color:#333333;
@@ -3012,7 +3012,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Metasurface spectrometers beyond resolution-sensitivity constraints.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3025,7 +3025,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Conventional spectrometer designs necessitate a compromise between their resolution and sensitivity, especially as device and detector dimensions are scaled down. Here, we report on a miniaturizable spectrometer platform where light throughput onto the detector is instead enhanced as the resolution is increased. This planar, CMOS-compatible platform is based around metasurface encoders designed to exhibit photonic bound states in the continuum, where operational range can be altered or extended simply through adjusting geometric parameters. This system can enhance photon collection efficiency by up to two orders of magnitude versus conventional designs; we demonstrate this sensitivity advantage through ultralow-intensity fluorescent and astrophotonic spectroscopy. This work represents a step forward for the practical utility of spectrometers, affording a route to integrated, chip-based devices that maintain high resolution and SNR without requiring prohibitively long integration times.
      </p>
      <p style="
        color:#333333;
@@ -3048,7 +3048,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot 3d imaging meta-microscope.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3061,7 +3061,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Three-dimensional (3D) imaging enables high-precision and high-resolution axial positioning, which is crucial for biological imaging, semiconductor defect monitoring, and other applications. Conventional implementations rely on bulky optical elements or scanning mechanisms, resulting in low speed and complicated setups. Here, we generate the double-helix (DH) point spread function with an all-dielectric metasurface and thus innovate the 3D imaging microscope (hence dubbed meta-microscope), both in 4f and 2f imaging systems. The 4f-meta-microscope with a numerical aperture of 0.7 achieves an axial localization accuracy below 0.12 μm within a 15.47 μm detection range, while the 2f-DH meta-microscope with a numerical aperture of 0.3 shows a 1.12 μm accuracy within a 227.33 μm range. We also demonstrate single-shot and accurate 3D biological imaging of the mouse kidney tissue and peach anther, providing a comprehensive and efficient approach for 3D bioimaging and other applications through a single-shot 3D meta-microscope.
      </p>
      <p style="
        color:#333333;
@@ -3084,7 +3084,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Reconfigurable snapshot hyperspectral imaging sensor based on monochromatic pattern match of gradient geometry metasurface.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3097,7 +3097,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Metasurface-based hyperspectral imaging has profoundly impacted the field, with its easy integration and miniaturization advantages. Notably, metallic metasurfaces have been a research subject in sensing and imaging due to their strong capability of restraining light and supporting high-fidelity and cost-effective manufacturing processes. In this work, a novel metallic metasurface with gradient geometry was proposed for hyperspectral imaging, which highlights the advantages of defect tolerance and reconfigurability of imaging units with a spectral image resolution of 135 × 75 superpixels. An orthogonal matching algorithm with postcalibration based on monochromatic transmittance images of the metasurface was designed for spectral reconstruction. The proposed reconstruction algorithm simplifies calibration and can compensate for systematic losses. The operating bandwidth of the hyperspectral imaging sensor can be reconfigured, and the miniaturized nature makes it potentially integrated into smartphones and other instruments with lightweight computing and fast reconstruction. Moreover, the strategy has been validated in sensing and real-object surface imaging with a spectral resolution of approximately 1.99 nm under a 2 nm line width. Its efficacy is verified in the 400–800 nm band with a high fidelity of up to 86.7%.
      </p>
      <p style="
        color:#333333;
@@ -3120,7 +3120,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Compact angle-resolved metasurface spectrometer.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3133,7 +3133,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Light scattered or radiated from a material carries valuable information on the said material. Such information can be uncovered by measuring the light field at different angles and frequencies. However, this technique typically requires a large optical apparatus, hampering the widespread use of angle-resolved spectroscopy beyond the lab. Here we demonstrate compact angle-resolved spectral imaging by combining a tunable metasurface-based spectrometer array and a metalens. With this approach, even with a miniaturized spectrometer footprint of only 4 × 4 μm2, we demonstrate a wavelength accuracy of 0.17 nm, spectral resolution of 0.4 nm and a linear dynamic range of 149 dB. Moreover, our spectrometer has a detection limit of 1.2 fJ, and can be patterned to an array for spectral imaging. Placing such a spectrometer array directly at the back focal plane of a metalens, we achieve an angular resolution of 4.88 × 10−3 rad. Our angle-resolved spectrometers empowered by metalenses can be employed towards enhancing advanced optical imaging and spectral analysis applications.
      </p>
      <p style="
        color:#333333;
@@ -3156,7 +3156,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Metasurface-based mueller matrix microscope.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3169,7 +3169,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       In conventional optical microscopes, image contrast of objects mainly results from the differences in light intensity and/or color. Muller matrix optical microscopes (MMMs), on the other hand, can provide significantly enhanced image contrast and rich information about objects by analyzing their interactions with polarized light. However, state-of-the-art MMMs are fundamentally limited by bulky and slow polarization state generators and analyzers. Here, the study demonstrates a metasurface-based MMM, i.e., Meta-MMM, which is equipped with a chip-integrated, single-shot metasurface polarization state analyzer (Meta-PSA). The Meta-MMM is featured with high-speed measurement (≈2s per Muller matrix (MM) image), superior operation stability, dual-color operation, and high measurement accuracy (measurement error 1–2%) for MM imaging. The Meta-MMM is applied to nanostructure characterization, surface morphology analysis, and discovering birefringent structures in honeybee wings. The Meta-MMMs hold the promise to revolutionize various applications from biological imaging, medical diagnosis, and material characterization to industry inspection and space exploration.
      </p>
      <p style="
        color:#333333;
@@ -3192,7 +3192,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Achromatic full stokes polarimetry metasurface for full-color polarization imaging in the visible range.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3205,7 +3205,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Metasurfaces provide an ultrathin platform for compact, real-time polarimetry. However, their applications in polychromatic scenes are restricted by narrow operating bandwidths that causes spectral information loss. Here, we demonstrate full-color polarization imaging using an achromatic polarimeter consisting of four polarization-dependent metalenses. Leveraging an intelligent design scheme, we achieve effective arbitrary phase compensation and multiobjective matching with a limited database. This system provides broadband achromaticity across wavelengths from 450 to 650 nm, resulting in a relative bandwidth of approximately 0.364 for full Stokes imaging. Experimental reconstruction errors for wavelengths of 450, 550, and 650 nm are 7.5%, 5.9%, and 3.8%, respectively. Performance is evaluated based on both achromatic bandwidth and crosstalk, with our design achieving three times the performance of the current state-of-the-art. The full-color, full-polarization imaging capability of the device is further validated with a customized object. The proposed scheme advances polarization imaging for practical applications.
      </p>
      <p style="
        color:#333333;
@@ -3228,7 +3228,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Metasurface-enabled single-shot and complete mueller matrix imaging.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3241,7 +3241,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       When light scatters off an object, its polarization, in general, changes—a transformation described by the object’s Mueller matrix. Mueller matrix imaging is an important technique in science and technology to image the spatially varying polarization response of an object of interest, to reveal rich information otherwise invisible to traditional imaging. Here we conceptualize, implement and demonstrate a compact Mueller matrix imaging system—composed of a metasurface to produce structured polarization illumination and a metasurface for polarization analysis—that can, in a single shot, acquire all 16 components of an object’s spatially varying Mueller matrix over an image. Our implementation, which is free of any moving parts or bulk polarization optics, should enable and empower applications in real-time medical imaging, material characterization, machine vision, target detection and other important areas.
      </p>
      <p style="
        color:#333333;
@@ -3264,7 +3264,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Dispersion-assisted high-dimensional photodetector.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3277,7 +3277,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Intensity, polarization and wavelength are intrinsic characteristics of light. Characterizing light with arbitrarily mixed information on polarization and spectrum is in high demand1,2,3,4. Despite the extensive efforts in the design of polarimeters5,6,7,8,9,10,11,12,13,14,15,16,17,18 and spectrometers19,20,21,22,23,24,25,26,27, concurrently yielding high-dimensional signatures of intensity, polarization and spectrum of the light fields is challenging and typically requires complicated integration of polarization- and/or wavelength-sensitive elements in the space or time domains. Here we demonstrate that simple thin-film interfaces with spatial and frequency dispersion can project and tailor polarization and spectrum responses in the wavevector domain. By this means, high-dimensional light information can be encoded into single-shot imaging and deciphered with the assistance of a deep residual network. To the best of our knowledge, our work not only enables full characterization of light with arbitrarily mixed full-Stokes polarization states across a broadband spectrum with a single device and a single measurement but also presents comparable, if not better, performance than state-of-the-art single-purpose miniaturized polarimeters or spectrometers. Our approach can be readily used as an alignment-free retrofit for the existing imaging platforms, opening up new paths to ultra-compact and high-dimensional photodetection and imaging.
      </p>
      <p style="
        color:#333333;
@@ -3300,7 +3300,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Thin on-sensor nanophotonic array cameras.png" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3313,7 +3313,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Today's commodity camera systems rely on compound optics to map light originating from the scene to positions on the sensor where it gets recorded as an image. To record images without optical aberrations, i.e., deviations from Gauss' linear model of optics, typical lens systems introduce increasingly complex stacks of optical elements which are responsible for the height of existing commodity cameras. In this work, we investigate flat nanophotonic computational cameras as an alternative that employs an array of skewed lenslets and a learned reconstruction approach. The optical array is embedded on a metasurface that, at 700 nm height, is flat and sits on the sensor cover glass at 2.5 mm focal distance from the sensor. To tackle the highly chromatic response of a metasurface and design the array over the entire sensor, we propose a differentiable optimization method that continuously samples over the visible spectrum and factorizes the optical modulation for different incident fields into individual lenses. We reconstruct a megapixel image from our flat imager with a learned probabilistic reconstruction method that employs a generative diffusion model to sample an implicit prior. To tackle scene-dependent aberrations in broadband, we propose a method for acquiring paired captured training data in varying illumination conditions. We assess the proposed flat camera design in simulation and with an experimental prototype, validating that the method is capable of recovering images from diverse scenes in broadband with a single nanophotonic layer.
      </p>
      <p style="
        color:#333333;
@@ -3336,7 +3336,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Disordered metasurface enabled single-shot full-Stokes polarization imaging leveraging weak dichroism.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3349,7 +3349,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Polarization, one of the fundamental properties of light, is critical for certain imaging applications because it captures information from the scene that cannot directly be recorded by traditional intensity cameras. Currently, mainstream approaches for polarization imaging rely on strong dichroism of birefringent crystals or artificially fabricated structures that exhibit a high diattenuation typically exceeding 99%, which corresponds to a polarization extinction ratio (PER) >~100. This not only limits the transmission efficiency of light, but also makes them either offer narrow operational bandwidth or be non-responsive to the circular polarization. Here, we demonstrate a single-shot full-Stokes polarization camera incorporating a disordered metasurface array with weak dichroism. The diattenuation of the metasurface array is ~65%, which corresponds to a PER of ~2. Within the framework of compressed sensing, the proposed disordered metasurface array serves as an efficient sensing matrix. By incorporating a mask-aware reconstruction algorithm, the signal can be accurately recovered with a high probability. In our experiments, the proposed approach exhibits high-accuracy full-Stokes polarimetry and high-resolution real-time polarization imaging. Our demonstration highlights the potential of combining meta-optics with reconstruction algorithms as a promising approach for advanced imaging applications.
      </p>
      <p style="
        color:#333333;
@@ -3372,7 +3372,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Chip-integrated metasurface full-Stokes polarimetric imaging sensor.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3385,7 +3385,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Polarimetric imaging has a wide range of applications for uncovering features invisible to human eyes and conventional imaging sensors. Chip-integrated, fast, cost-effective, and accurate full-Stokes polarimetric imaging sensors are highly desirable in many applications, which, however, remain elusive due to fundamental material limitations. Here we present a chip-integrated Metasurface-based Full-Stokes Polarimetric Imaging sensor (MetaPolarIm) realized by integrating an ultrathin (~600 nm) metasurface polarization filter array (MPFA) onto a visible imaging sensor with CMOS compatible fabrication processes. The MPFA is featured with broadband dielectric-metal hybrid chiral metasurfaces and double-layer nanograting polarizers. This chip-integrated polarimetric imaging sensor enables single-shot full-Stokes imaging (speed limited by the CMOS imager) with the most compact form factor, records high measurement accuracy, dual-color operation (green and red) and a field of view up to 40 degrees. MetaPolarIm holds great promise to enable transformative applications in autonomous vision, industry inspection, space exploration, medical imaging and diagnosis.
      </p>
      <p style="
        color:#333333;
@@ -3408,7 +3408,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Metasurface-driven full-space structured light for three-dimensional imaging.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3421,7 +3421,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Structured light (SL)-based depth-sensing technology illuminates the objects with an array of dots, and backscattered light is monitored to extract three-dimensional information. Conventionally, diffractive optical elements have been used to form laser dot array, however, the field-of-view (FOV) and diffraction efficiency are limited due to their micron-scale pixel size. Here, we propose a metasurface-enhanced SL-based depth-sensing platform that scatters high-density ~10 K dot array over the 180° FOV by manipulating light at subwavelength-scale. As a proof-of-concept, we place face masks one on the beam axis and the other 50° apart from axis within distance of 1 m and estimate the depth information using a stereo matching algorithm. Furthermore, we demonstrate the replication of the metasurface using the nanoparticle-embedded-resin (nano-PER) imprinting method which enables high-throughput manufacturing of the metasurfaces on any arbitrary substrates. Such a full-space diffractive metasurface may afford ultra-compact depth perception platform for face recognition and automotive robot vision applications.
      </p>
      <p style="
        color:#333333;
@@ -3444,7 +3444,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot 3d imaging with point cloud projection based on metadevice.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3457,7 +3457,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Three-dimensional (3D) imaging is a crucial information acquisition technology for light detection, autonomous vehicles, gesture recognition, machine vision, and other applications. Metasurface, as a subwavelength scale two-dimensional array, offers flexible control of optical wavefront owing to abundant design freedom. Metasurfaces are promising for use as optical devices because they have large field of view and powerful functionality. In this study, we propose a flat optical device based on a single-layer metasurface to project a coded point cloud in the Fourier space and explore a sophisticated matching algorithm to achieve 3D reconstruction, offering a complete technical roadmap for single-shot detection. We experimentally demonstrate that the depth accuracy of our system is smaller than 0.24 mm at a measurement distance of 300 mm, indicating the feasibility of the submillimetre measurement platform. Our method can pave the way for practical applications such as surface shape detection, gesture recognition, and personal authentication.
      </p>
      <p style="
        color:#333333;
@@ -3480,7 +3480,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Dynamic brain spectrum acquired by a real-time ultraspectral imaging chip with reconfigurable metasurfaces.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3493,7 +3493,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Spectral imaging paves the way for various fields, particularly in biomedical research. However, spectral imaging, mainly depending on spatial or temporal scanning, cannot achieve high temporal, spatial, and spectral resolution simultaneously. In this study, we demonstrated a silicon real-time ultraspectral imaging chip based on reconfigurable metasurfaces, comprising 155,216 (356*436) image-adaptive microspectrometers with ultra-high center-wavelength accuracy of 0.04 nm and spectral resolution of 0.8 nm. It is employed for imaging brain hemodynamics, and the dynamic spectral absorption properties of deoxyhemoglobin and oxyhemoglobin in a rat barrel cortex were obtained, which enlighten spectroscopy in vivo studies and other real-time applications.
      </p>
      <p style="
        color:#333333;
@@ -3516,7 +3516,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Real-time hyperspectral imaging in hardware via trained metasurface encoders.gif" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3529,7 +3529,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Hyperspectral imaging has attracted significant attention to identify spectral signatures for image classification and automated pattern recognition in computer vision. State-of-the-art implementations of snapshot hyperspectral imaging rely on bulky, non-integrated, and expensive optical elements, including lenses, spectrometers, and filters. These macroscopic components do not allow fast data processing for, e.g. real-time and high-resolution videos. This work introduces Hyplex™, a new integrated architecture addressing the limitations discussed above. Hyplex™ is a CMOS-compatible, fast hyperspectral camera that replaces bulk optics with nanoscale metasurfaces inversely designed through artificial intelligence. Hyplex™ does not require spectrometers but makes use of conventional monochrome cameras, opening up the possibility for real-time and high-resolution hyperspectral imaging at inexpensive costs. Hyplex™ exploits a model-driven optimization, which connects the physical metasurfaces layer with modern visual computing approaches based on end-to-end training. We design and implement a prototype version of Hyplex™ and compare its performance against the state-of-the-art for typical imaging tasks such as spectral reconstruction and semantic segmentation. In all benchmarks, Hyplex™ reports the smallest reconstruction error. We additionally present what is, to the best of our knowledge, the largest publicly available labeled hyperspectral dataset for semantic segmentation.11Dataset available on https://github.com/makamoa/hyplex.
      </p>
      <p style="
        color:#333333;
@@ -3552,7 +3552,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Observation of full-parameter jones matrix in bilayer metasurface.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3565,7 +3565,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Metasurfaces, artificial 2D structures, have been widely used for the design of various functionalities in optics. Jones matrix, a 2×2 matrix with eight parameters, provides the most complete characterization of the metasurface structures in linear optics, and the number of free parameters (i.e., degrees of freedom, DOFs) in the Jones matrix determines the limit to what functionalities we can realize. Great efforts have been made to continuously expand the number of DOFs, and a maximal number of six has been achieved recently. However, the realization of the ultimate goal with eight DOFs (full free parameters) has been proven as a great challenge so far. Here, we show that by cascading two layer metasurfaces and utilizing the gradient descent optimization algorithm, a spatially varying Jones matrix with eight DOFs is constructed and verified numerically and experimentally in optical frequencies. Such ultimate control unlocks opportunities to design optical functionalities that are unattainable with previously known methodologies and may find wide potential applications in optical fields.
      </p>
      <p style="
        color:#333333;
@@ -3588,7 +3588,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Full-stokes polarimetry for visible light enabled by an all-dielectric metasurface.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3601,7 +3601,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Decoding arbitrary polarization information from an optical field has triggered unprecedented endeavors in polarization imaging, remote sensing, and information processing. Therefore, developing a polarization detection device with full on-chip integration and miniaturization holds tremendous potential for many areas of optical sciences. Herein, a full-Stokes polarimetry device for visible light based on an all-dielectric metasurface is proposed. By combining both geometric phase and propagation phase modulation, the metasurface to provide two uncorrelated phase profiles for the two orthogonal states of input polarization is designed, which is then used to spatially separate the various polarization states of incident light. Through the use of a millimeter-scale multiplexed metasurface array, successful characterization of the full polarization distribution of space-variant polarization fields is further achieved. This proof-of-concept ultracompact and ultrathin metasurface is expected to open new pathways in full-Stokes polarization detection, machine vision, and navigation.
      </p>
      <p style="
        color:#333333;
@@ -3624,7 +3624,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Ultra-compact snapshot spectral light-field imaging..webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3637,7 +3637,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Ideal imaging, which is constantly pursued, requires the collection of all kinds of optical information of the objects in view, such as three-dimensional spatial information (3D) including the planar distribution and depth, and the colors, i.e., spectral information (1D). Although three-dimensional spatial imaging and spectral imaging have individually evolved rapidly, their straightforward combination is a cumbersome system, severely hindering the practical applications of four-dimensional (4D) imaging. Here, we demonstrate the ultra-compact spectral light-field imaging (SLIM) by using a transversely dispersive metalens array and a monochrome imaging sensor. With only one snapshot, the SLIM presents advanced imaging with a 4 nm spectral resolution and near-diffraction-limit spatial resolution. Consequently, visually indistinguishable objects and materials can be discriminated through SLIM, which promotes significant progress towards ideal plenoptic imaging.
      </p>
      <p style="
        color:#333333;
@@ -3660,7 +3660,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/High efficiency all-dielectric pixelated metasurface for near-infrared full-stokes polarization detection.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3673,7 +3673,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Pixelated metasurfaces integrating both the functions of linear polarization and circular polarization filters on a single platform can achieve full-Stokes polarization detection. At present, the pixelated full-Stokes metasurfaces mainly face the following problems: low transmission, low circular dichroism (CD) of circular polarization filters, and high requirements in fabrication and integration. Herein, we propose high performance ultracompact all-dielectric pixelated full-Stokes metasurfaces in the near-infrared band based on silicon-on-insulator, which is compatible with the available semiconductor industry technologies. Circular polarization filters with high CD are achieved by using simple two-dimensional chiral structures, which can be easily integrated with the linear polarization filters on a single chip. In addition, the dielectric materials have higher transmission than metal materials with intrinsic absorption. We experimentally demonstrated the circular polarization filter with maximum CD up to 70% at a wavelength of 1.6 μm and average transmission efficiency above 80% from 1.48 μm to 1.6 μm. Therefore, our design is highly desirable for many applications, such as target detection, clinical diagnosis, and polarimetric imaging and sensing.
      </p>
      <p style="
        color:#333333;
@@ -3696,7 +3696,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Passive microwave spectral imaging with dynamic metasurface apertures.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3709,7 +3709,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Passive microwave imaging of incoherent sources is often approached in a lensless configuration through array-based interferometric processing. We present an alternative route in the form of a coded aperture realized using a dynamic metasurface. We demonstrate that this device can achieve an estimate of the spectral source distribution from a series of single-port spectral magnitude measurements and complex characterization of the modulation patterns. The image estimation problem is formulated in this case as compressive inversion of a set of standard linear matrix equations. In addition, we demonstrate that a dispersive metasurface design can achieve spectral encoding directly, offering the potential for spectral imaging from frequency-integrated, multiplexed measurements. The microwave dynamic metasurface aperture as an encoding structure is shown to comprise a substantially simplified hardware architecture than that employed in common passive microwave imaging systems. Our proposed technique can facilitate large scale microwave imaging applications that exploit pervasive ambient sources, while similar principles can readily be applied at terahertz, infrared, and optical frequencies.
      </p>
      <p style="
        color:#333333;
@@ -3732,7 +3732,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Snapshot spectral imaging with parallel metasystems.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3745,7 +3745,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Spectral imagers divide scenes into quantitative and narrowband spectral channels. They have become important metrological tools in many areas of science, especially remote sensing. Here, we propose and experimentally demonstrate a snapshot spectral imager using a parallel optical processing paradigm based on arrays of metasystems. Our multi-aperture spectral imager weighs less than 20 mg and simultaneously acquires 20 image channels across the 795- to 980-nm spectral region. Each channel is formed by a metasurface-tuned filter and a metalens doublet. The doublets incorporate absorptive field stops, reducing cross-talk between image channels. We demonstrate our instrument’s capabilities with both still images and video. Narrowband filtering, necessary for the device’s operation, also mitigates chromatic aberration, a common problem in metasurface imagers. Similar instruments operating at visible wavelengths hold promise as compact, aberration-free color cameras. Parallel optical processing using metasystem arrays enables novel, compact instruments for scientific studies and consumer electronics.
      </p>
      <p style="
        color:#333333;
@@ -3768,7 +3768,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Achromatic metalens array for full-colour light-field imaging.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3781,7 +3781,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       A light-field camera captures both the intensity and the direction of incoming light1,2,3,4,5. This enables a user to refocus pictures and afterwards reconstruct information on the depth of field. Research on light-field imaging can be divided into two components: acquisition and rendering. Microlens arrays have been used for acquisition, but obtaining broadband achromatic images with no spherical aberration remains challenging. Here, we describe a metalens array made of gallium nitride (GaN) nanoantennas6 that can be used to capture light-field information and demonstrate a full-colour light-field camera devoid of chromatic aberration. The metalens array contains an array of 60 × 60 metalenses with diameters of 21.65 μm. The camera has a diffraction-limited resolution of 1.95 μm under white light illumination. The depth of every object in the scene can be reconstructed slice by slice from a series of rendered images with different depths of focus. Full-colour, achromatic light-field cameras could find applications in a variety of fields such as robotic vision, self-driving vehicles and virtual and augmented reality.
      </p>
      <p style="
        color:#333333;
@@ -3804,7 +3804,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Hyperspectral imager with folded metasurface optics.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3817,7 +3817,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Hyperspectral imaging is a key characterization technique used in various areas of science and technology. Almost all implementations of hyperspectral imagers rely on bulky optics including spectral filters and moving or tunable elements. Here, we propose and demonstrate a line-scanning folded metasurface hyperspectral imager (HSI) that is fabricated in a single lithographic step on a 1 mm thick glass substrate. The HSI is composed of four metasurfaces, three reflective and one transmissive, that are designed to collectively disperse and focus light of different wavelengths and incident angles on a focal plane parallel to the glass substrate. With a total volume of 8.5 mm3, the HSI has spectral and angular resolutions of ∼1.5 nm and 0.075°, over the 750–850 nm and −15° to +15° degree ranges, respectively. Being compact, light weight, and easy to fabricate and integrate with image sensors and electronics, the metasurface HSI opens up new opportunities for utilizing hyperspectral imaging where strict volume and weight constraints exist. In addition, the demonstrated HSI exemplifies the utilization of metasurfaces as high-performance diffractive optical elements for implementation of advanced optical systems.
      </p>
      <p style="
        color:#333333;
@@ -3840,7 +3840,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Ultrasensitive hyperspectral imaging and biodetection enabled by dielectric metasurfaces.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3853,7 +3853,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Metasurfaces based on resonant subwavelength photonic structures enable novel ways of wavefront control and light focusing, underpinning a new generation of flat-optics devices1. Recently emerged all-dielectric asymmetric metasurfaces, composed of arrays of metaunits with broken in-plane inversion symmetry2,3,4,5,6,7, exhibit high-quality resonances originating from the intriguing physics of bound states in the continuum. Here, we combine dielectric metasurfaces and hyperspectral imaging to develop an ultrasensitive label-free analytical platform for biosensing. Our technique can acquire spatially resolved spectra from millions of image pixels and use smart data-processing tools to extract high-throughput digital sensing information at the unprecedented level of less than three molecules per μm2. We further show spectral data retrieval from a single image without using spectrometers, enabled by our unique sensor design, paving the way for portable diagnostic applications. This combination of nanophotonics and imaging optics extends the capabilities of dielectric metasurfaces to analyse biological entities and atomic-layer-thick two-dimensional materials over large areas.
      </p>
      <p style="
        color:#333333;
@@ -3876,7 +3876,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Matrix fourier optics enables a compact full-Stokes polarization camera.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3889,7 +3889,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Imaging the polarization of light scattered from an object provides an additional degree of freedom for gaining information from a scene. Conventional polarimeters can be bulky and usually consist of mechanically moving parts (with a polarizer and analyzer setup rotating to reveal the degree of polarization). Rubin et al. designed a metasurface-based full-Stokes compact polarization camera without conventional polarization optics and without moving parts. The results provide a simplified route for polarization imaging.
      </p>
      <p style="
        color:#333333;
@@ -3912,7 +3912,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Full-stokes imaging polarimetry using dielectric metasurfaces.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3925,7 +3925,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Polarization is a degree of freedom of light carrying important information that is usually absent in intensity and spectral content. Imaging polarimetry is the process of determining the polarization state of light, either partially or fully, over an extended scene. It has found several applications in various fields, from remote sensing to biology. Among different devices for imaging polarimetry, division of focal plane polarization cameras (DoFP-PCs) are more compact, less complicated, and less expensive. In general, DoFP-PCs are based on an array of polarization filters in the focal plane. Here we demonstrate a new principle and design for DoFP-PCs based on dielectric metasurfaces with the ability to control polarization and phase. Instead of polarization filtering, the method is based on splitting and focusing light in three different polarization bases. Therefore, it enables full Stokes characterization of the state of polarization and overcomes the 50% theoretical efficiency limit of the polarization-filter-based DoFP-PCs.
      </p>
      <p style="
        color:#333333;
@@ -3948,7 +3948,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Toward multispectral imaging with colloidal metasurface pixels.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -3961,7 +3961,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Multispectral colloidal metasurfaces are fabricated that exhibit greater than 85% absorption and ≈100 nm linewidths by patterning film-coupled nanocubes in pixels using a fusion of bottom-up and top-down fabrication techniques over wafer-scale areas. With this technique, the authors realize a multispectral pixel array consisting of six resonances between 580 and 1125 nm and reconstruct an RGB image with 9261 color combinations.
      </p>
      <p style="
        color:#333333;
@@ -3990,7 +3990,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Concurrent image differentiation and integration processings enabled by polarization-multiplexed metasurface.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4003,7 +4003,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Optical computing and image processing performed by sensor front-end metasurfaces is receiving increasing interest because of advantages such as significant reduction of latency time, energy consumption, and system complexity. Despite the rapid progress, concurrent processing, the most important feature of electronic computing, has not yet been well implemented in optical computing. Here, a metasurface-based optical image processor that can perform optical differentiation and integration tasks simultaneously is proposed. This optical front-end processor integrates two coherent transfer functions corresponding to differential and integral convolution kernels into a built-in metasurface by polarization encoding, allowing concurrent processing of multiple all-optical computational tasks. The simultaneous differentiation and integration operations on images for edge enhancement and denoising are demonstrated at multiple visible wavelengths. This concurrent processing architecture paves a promising pathway toward multifunctional and higher-speed image processing for machine vision and biomedical imaging and shows the potential to expedite and potentially supplant certain digital neural network algorithms.
      </p>
      <p style="
        color:#333333;
@@ -4026,7 +4026,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/On-site quantitative detection of fentanyl in heroin by machine learning-enabled sensors on super absorbing metasurfaces.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4039,7 +4039,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       The global surge in opioid misuse, particularly fentanyl, presents a formidable public health challenge, highlighted by increasing drug-related mortalities. Our study introduces a novel approach for on-site quantitative detection of fentanyl in heroin, employing machine learning-enabled surface-enhanced Raman spectroscopy (SERS) on superabsorbing metasurfaces. The metasurface enables superior light absorption (>90%) across a broad wavelength range (580–1100 nm). This architecture facilitates significant electromagnetic field enhancement, over 2.19 × 107, ensuring high sensitivity, uniformity, and reproducibility. Our method precisely captured SERS signals across a detection range of 1–100 μg/mL in fentanyl solutions, fentanyl-heroin mixtures, and fentanyl-spiked saliva, demonstrating its versatility and practical utility. Incorporation of partial least squares regression into our analysis achieved over 93% accuracy in concentration predictions, eliminating the need for pre-data processing or specialized personnel. This marks a key advancement in rapid, accurate fentanyl detection, aiding the fight against the opioid crisis and improving public health safety.
      </p>
      <p style="
        color:#333333;
@@ -4062,7 +4062,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Broadband and large-aperture metasurface edge encoders for incoherent infrared radiation.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4075,7 +4075,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       The prevalence of computer vision systems necessitates hardware-based approaches to relieve the high computational demand of deep neural networks in resource-limited applications. One solution would be to off-load low-level image feature extraction, such as edge detection, from the digital network to the analog imaging system. To that end, this work demonstrates incoherent, broadband, low-noise optical edge detection of real-world scenes by combining the wavefront shaping of a 24-mm aperture metasurface with a refractive lens. An inverse design approach is used to optimize the metasurface for Laplacian-based edge detection across the 7.5- to 13.5-μm LWIR imaging band, allowing for facile integration with uncooled microbolometer-based LWIR imagers to encode edge information. A polarization multiplexed approach leveraging a birefringent metasurface is also demonstrated as a single-aperture implementation. This work could be applied to improve computer vision capabilities of resource-constrained systems by leveraging optical preprocessing to alleviate the computational requirements for high-accuracy image segmentation and classification.
      </p>
      <p style="
        color:#333333;
@@ -4098,7 +4098,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Smart mid-infrared metasurface microspectrometer gas sensing system.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4111,7 +4111,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Smart, low-cost and portable gas sensors are highly desired due to the importance of air quality monitoring for environmental and defense-related applications. Traditionally, electrochemical and nondispersive infrared (IR) gas sensors are designed to detect a single specific analyte. Although IR spectroscopy-based sensors provide superior performance, their deployment is limited due to their large size and high cost. In this study, a smart, low-cost, multigas sensing system is demonstrated consisting of a mid-infrared microspectrometer and a machine learning algorithm. The microspectrometer is a metasurface filter array integrated with a commercial IR camera that is consumable-free, compact ( ~ 1 cm3) and lightweight ( ~ 1 g). The machine learning algorithm is trained to analyze the data from the microspectrometer and predict the gases present. The system detects the greenhouse gases carbon dioxide and methane at concentrations ranging from 10 to 100% with 100% accuracy. It also detects hazardous gases at low concentrations with an accuracy of 98.4%. Ammonia can be detected at a concentration of 100 ppm. Additionally, methyl-ethyl-ketone can be detected at its permissible exposure limit (200 ppm); this concentration is considered low and nonhazardous. This study demonstrates the viability of using machine learning with IR spectroscopy to provide a smart and low-cost multigas sensing platform.
      </p>
      <p style="
        color:#333333;
@@ -4134,7 +4134,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Multianalyte detection with metasurface-based midinfrared microspectrometer.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4147,7 +4147,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Midinfrared (2.5–25 μm) spectroscopy is an ideal tool for identifying chemicals in a nondestructive manner. The traditional platform is a Fourier transform infrared (FTIR) spectrometer, but this is too bulky, expensive, and power-hungry for many applications. There is therefore a growing demand for small, lightweight, and cost-effective microspectrometers for use in the field. One emerging platform is the filter-array detector-array microspectrometer. It pairs a broadband detector array with a thin and rigid array of spectral filters to offer a robust, compact platform for real-time in situ sensing. However, most demonstrations have only focused on identifying a single chemical against a null sample, even though many applications would involve multianalyte detection. In this work, we show a rare attempt at simultaneously tracking multiple analytes with a metasurface filter-array microspectrometer. The metasurface consists of periodic lattices of subwavelength circular apertures in an aluminum layer to create an array of bandpass filters. The filter array is imaged with an off-the-shelf microbolometer via a reverse-lens imaging setup to simultaneously monitor the concentration of ethanol and methanol in gasoline. This represents an important application of fuel quality monitoring. Chemometric models (PLS and SVR) are trained and tested on gasoline blends with ethanol and methanol contents, both ranging from 0% to 20% v/v. A support vector machine regression (SVR) model with a cubic kernel was found to have the lowest combined prediction errors. The root-mean-square-error of prediction (RMSEP) for ethanol and methanol are 1.23% and 1.84% v/v; the corresponding pseudounivariate limit of detection is found to be 4.22% and 6.86% v/v, respectively. This work takes the emerging field of metasurface-based mid-infrared spectrometers from single- to multianalyte detection, thereby considerably expanding their range of potential applications.
      </p>
      <p style="
        color:#333333;
@@ -4170,7 +4170,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Pluggable multitask diffractive neural networks based on cascaded metasurfaces.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4183,7 +4183,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Optical neural networks have significant advantages in terms of power consumption, parallelism, and high computing speed, which has intrigued extensive attention in both academic and engineering communities. It has been considered as one of the powerful tools in promoting the fields of imaging processing and object recognition. However, the existing optical system architecture cannot be reconstructed to the realization of multi-functional artificial intelligence systems simultaneously. To push the development of this issue, we propose the pluggable diffractive neural networks (P-DNN), a general paradigm resorting to the cascaded metasurfaces, which can be applied to recognize various tasks by switching internal plug-ins. As the proof-of-principle, the recognition functions of six types of handwritten digits and six types of fashions are numerical simulated and experimental demonstrated at near-infrared regimes. Encouragingly, the proposed paradigm not only improves the flexibility of the optical neural networks but paves the new route for achieving high-speed, low-power and versatile artificial intelligence systems.
      </p>
      <p style="
        color:#333333;
@@ -4206,7 +4206,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Metasurface enabled broadband all optical edge detection in visible frequencies.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4219,7 +4219,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Image processing is of fundamental importance for numerous modern technologies. In recent years, due to increasing demand for real-time and continuous data processing, metamaterial and metasurface based all-optical computation techniques emerged as a promising alternative to digital computation. Most of the pioneer research focused on all-optical edge detection as a fundamental step of image processing. Metasurfaces have been shown to enable real time edge detection with low to no power consumption. However, the previous demonstrations were subjected to the several limitations such as need for oblique-incidence, polarization dependence, need for additional polarizers, narrow operation bandwidth, being limited with processing in 1D, operation with coherent light only, and requiring digital post-processing. Here, we propose and experimentally demonstrate 2D isotropic, polarization-independent, broadband edge detection with high transmission efficiency under both coherent and incoherent illumination along the visible frequency range using a metasurface based on Fourier optics principles.
      </p>
      <p style="
        color:#333333;
@@ -4242,7 +4242,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/etalens for accelerated optoelectronic edge detection under ambient illumination.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4255,7 +4255,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Analog systems may allow image processing, such as edge detection, with low computational power. However, most demonstrated analog systems, based on either conventional 4-f imaging systems or nanophotonic structures, rely on coherent laser sources for illumination, which significantly restricts their use in routine imaging tasks with ambient, incoherent illumination. Here, we demonstrated a metalens-assisted imaging system that can allow optoelectronic edge detection under ambient illumination conditions. The metalens was designed to generate polarization-dependent optical transfer functions (OTFs), resulting in a synthetic OTF with an isotropic high-pass frequency response after digital subtraction. We integrated the polarization-multiplexed metalens with a polarization camera and experimentally demonstrated single-shot edge detection of indoor and outdoor scenes, including a flying airplane, under ambient sunlight illumination. The proposed system showcased the potential of using polarization multiplexing for the construction of complex optical convolution kernels toward accelerated machine vision tasks such as object detection and classification under ambient illumination.
      </p>
      <p style="
        color:#333333;
@@ -4278,7 +4278,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/All-optical object identification and three-dimensional reconstruction based on optical computing metasurface.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4291,7 +4291,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Object identification and three-dimensional reconstruction techniques are always attractive research interests in machine vision, virtual reality, augmented reality, and biomedical engineering. Optical computing metasurface, as a two-dimensional artificial design component, has displayed the supernormal character of controlling phase, amplitude, polarization, and frequency distributions of the light beam, capable of performing mathematical operations on the input light field. Here, we propose and demonstrate an all-optical object identification technique based on optical computing metasurface, and apply it to 3D reconstruction. Unlike traditional mechanisms, this scheme reduces memory consumption in the processing of the contour surface extraction. The identification and reconstruction of experimental results from high-contrast and low-contrast objects agree well with the real objects. The exploration of the all-optical object identification and 3D reconstruction techniques provides potential applications of high efficiencies, low consumption, and compact systems.
      </p>
      <p style="
        color:#333333;
@@ -4314,7 +4314,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Realizing depth measurement and edge detection based on a single metasurface.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4327,7 +4327,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       How to simultaneously obtain the depth, edge, and other light information of the scene to accurately perceive the physical world is an important issue for imaging systems. However, such tasks usually require bulky optical components and active illumination methods. Here, we design and experimentally validate a single geometric metasurface that can achieve depth measurement or edge detection under incoherent or coherent light respectively. Double helix point source function is utilized, and three verification experiments are carried out, including double-helix beam calibration, 2D object and 3D object detection, respectively. Additionally, two-dimensional edge detection can also be achieved. This compact imaging system can enable new applications in various fields, from machine vision to microscopy.
      </p>
      <p style="
        color:#333333;
@@ -4350,7 +4350,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/All-dielectric metasurface empowered optical-electronic hybrid neural networks.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4363,7 +4363,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Optical computing has a series of advantages over its electronic counterpart, e.g., low energy consumption, high speed, and intrinsic parallelism. Diffraction deep neural networks (D2NNs) are a prominent example capable of processing images directly without addressing the spatial locations of each element. Despite the great successes, the D2NNs typically utilize the multilayer framework and face the severe challenge of misalignment in the optical region. Herein, a single metasurface-based optical-electronic hybrid neural network (OENN) is proposed and experimentally demonstrated. The OENN is composed of a titanium dioxide (TiO2) metasurface and a fully-connected electronic layer. The combination of nonlocal neural layer and nonlinear transformation has significantly expanded the neural network capacity. Consequently, the classification accuracy on handwritten digits recognition can still be as high as 98.05% without employing the architecture of cascaded metasurfaces. The OENN shall shed light on the practical applications of optical computing in the visible spectrum.
      </p>
      <p style="
        color:#333333;
@@ -4386,7 +4386,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Noncontact electromagnetic wireless recognition for prosthesis based on intelligent metasurface.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4399,7 +4399,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       With the development of artificial intelligence and Internet of Things, hand gesture recognition techniques have attracted great attention owing to their excellent applications in developing human-machine interaction (HMI). Here, the authors propose a non-contact hand gesture recognition method based on intelligent metasurface. Owing to the advantage of dynamically controlling the electromagnetic (EM) focusing in the wavefront engineering, a transmissive programmable metasurface is presented to illuminate the forearm with more focusing spots and obtain comprehensive echo data, which can be processed under the machine learning technology to reach the non-contact gesture recognition with high accuracy. Compared with the traditional passive antennas, unique variations of echo coefficients resulted from near fields perturbed by finger and wrist agonist muscles can be aquired through the programmable metasurface by switching the positions of EM focusing. The authors realize the gesture recognition using support vector machine algorithm based on five individual focusing spots data and all-five-spot data. The influences of the focusing spots on the gesture recognition are analyzed through linear discriminant analysis algorithm and Fisher score. Experimental verifications prove that the proposed metasurface-based non-contact wireless design can realize the classification of hand gesture recognition with higher accuracy than traditional passive antennas, and give an HMI solution.
      </p>
      <p style="
        color:#333333;
@@ -4422,7 +4422,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Flat optics for image differentiation.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4435,7 +4435,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Image processing has become a critical technology in a variety of science and engineering disciplines. Although most image processing is performed digitally, optical analog processing has the advantages of being low-power and high-speed, but it requires a large volume. Here, we demonstrate flat optics for direct image differentiation, allowing us to significantly shrink the required optical system size. We first demonstrate how the differentiator can be combined with traditional imaging systems such as a commercial optical microscope and camera sensor for edge detection with a numerical aperture up to 0.32. We next demonstrate how the entire processing system can be realized as a monolithic compound flat optic by integrating the differentiator with a metalens. The compound nanophotonic system manifests the advantage of thin form factor as well as the ability to implement complex transfer functions, and could open new opportunities in applications such as biological imaging and computer vision.
      </p>
      <p style="
        color:#333333;
@@ -4458,7 +4458,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Meta-neural-network for real-time and passive deep-learning-based object recognition.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4471,7 +4471,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Analyzing scattered wave to recognize object is of fundamental significance in wave physics. Recently-emerged deep learning technique achieved great success in interpreting wave field such as in ultrasound non-destructive testing and disease diagnosis, but conventionally need time-consuming computer postprocessing or bulky-sized diffractive elements. Here we theoretically propose and experimentally demonstrate a purely-passive and small-footprint meta-neural-network for real-time recognizing complicated objects by analyzing acoustic scattering. We prove meta-neural-network mimics a standard neural network despite its compactness, thanks to unique capability of its metamaterial unit-cells (dubbed meta-neurons) to produce deep-subwavelength phase shift as training parameters. The resulting device exhibits the “intelligence” to perform desired tasks with potential to overcome the current limitations, showcased by two distinctive examples of handwritten digit recognition and discerning misaligned orbital-angular-momentum vortices. Our mechanism opens the route to new metamaterial-based deep-learning paradigms and enable conceptual devices automatically analyzing signals, with far-reaching implications for acoustics and related fields.
      </p>
      <p style="
        color:#333333;
@@ -4494,7 +4494,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/ptical edge detection based on high-efficiency dielectric metasurface.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4507,7 +4507,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Optical edge detection is a useful method for characterizing boundaries, which is also in the forefront of image processing for object detection. As the field of metamaterials and metasurface is growing fast in an effort to miniaturize optical devices at unprecedented scales, experimental realization of optical edge detection with metamaterials remains a challenge and lags behind theoretical proposals. Here, we propose a mechanism of edge detection based on a Pancharatnam–Berry-phase metasurface. We experimentally demonstrated broadband edge detection using designed dielectric metasurfaces with high optical efficiency. The metasurfaces were fabricated by scanning a focused laser beam inside glass substrate and can be easily integrated with traditional optical components. The proposed edge-detection mechanism may find important applications in image processing, high-contrast microscopy, and real-time object detection on compact optical platforms such as mobile phones and smart cameras.
      </p>
      <p style="
        color:#333333;
@@ -4530,7 +4530,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Intelligent metasurface imager and recognizer.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4543,7 +4543,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       There is an increasing need to remotely monitor people in daily life using radio-frequency probe signals. However, conventional systems can hardly be deployed in real-world settings since they typically require objects to either deliberately cooperate or carry a wireless active device or identification tag. To accomplish complicated successive tasks using a single device in real time, we propose the simultaneous use of a smart metasurface imager and recognizer, empowered by a network of artificial neural networks (ANNs) for adaptively controlling data flow. Here, three ANNs are employed in an integrated hierarchy, transforming measured microwave data into images of the whole human body, classifying specifically designated spots (hand and chest) within the whole image, and recognizing human hand signs instantly at a Wi-Fi frequency of 2.4 GHz. Instantaneous in situ full-scene imaging and adaptive recognition of hand signs and vital signs of multiple non-cooperative people were experimentally demonstrated. We also show that the proposed intelligent metasurface system works well even when it is passively excited by stray Wi-Fi signals that ubiquitously exist in our daily lives. The reported strategy could open up a new avenue for future smart cities, smart homes, human-device interaction interfaces, health monitoring, and safety screening free of visual privacy issues.
      </p>
      <p style="
        color:#333333;
@@ -4566,7 +4566,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Machine-learning reprogrammable metasurface imager.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4579,7 +4579,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Conventional microwave imagers usually require either time-consuming data acquisition, or complicated reconstruction algorithms for data post-processing, making them largely ineffective for complex in-situ sensing and monitoring. Here, we experimentally report a real-time digital-metasurface imager that can be trained in-situ to generate the radiation patterns required by machine-learning optimized measurement modes. This imager is electronically reprogrammed in real time to access the optimized solution for an entire data set, realizing storage and transfer of full-resolution raw data in dynamically varying scenes. High-accuracy image coding and recognition are demonstrated in situ for various image sets, including hand-written digits and through-wall body gestures, using a single physical hardware imager, reprogrammed in real time. Our electronically controlled metasurface imager opens new venues for intelligent surveillance, fast data acquisition and processing, imaging at various frequencies, and beyond.
      </p>
      <p style="
        color:#333333;
@@ -4602,7 +4602,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Dual-band infrared metasurface thermal emitter for CO2 sensing.jpeg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4615,7 +4615,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Polarization- and angle-independent, dual-band metasurface thermal emitter was developed. The metasurface emits radiation at 4.26 μm and 3.95 μm, conventionally used for CO2 sensing. The metasurface is based on a planar Au/Al2O3/Au structure, in which orthogonal rectangular Au patches are arrayed alternately, and generates nearly perfect blackbody radiation with an emittance as high as 0.97. The metasurface is integrated on a resistive heater mounted on a SiN membrane, so that the infrared waves are produced by applying a voltage. The metasurface emitter was incorporated into an actual CO2 sensing system and was demonstrated to reduce the electric power needed by about 30% compared with a conventional blackbody emitter by suppressing unnecessary radiation.
      </p>
      <p style="
        color:#333333;
@@ -4644,7 +4644,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Tunable holographic metasurfaces for augmented and virtual reality.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4657,7 +4657,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Augmented and virtual reality (AR/VR) is transforming how humans interact with technology in a wide range of fields and industries, from healthcare and education to entertainment. However, current device limitations have impeded wider integration. Tunable holographic metasurfaces represent a promising platform for revolutionizing AR/VR devices by precisely controlling light at the subwavelength scale. This article examines current challenges and opportunities from both the AR/VR and holographic metamaterial perspectives and explores how improvements to state-of-the-art approaches can address these challenges. In particular, we propose a focus on easily manufacturable and broadly electrically tunable metasurface technologies including liquid crystal integration and excitonic tuning in 2D materials. Advanced metasurface optimization techniques including machine learning will also be crucial for exploring the large design space.
      </p>
      <p style="
        color:#333333;
@@ -4680,7 +4680,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Three-photon direct laser writing of the qd-polymer metasurface for large field-of-view optical holography.webp" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4693,7 +4693,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Conventional metasurface holography based on special structural designs is extremely sensitive to the angle of the incident light. Without complex angle optimization for metasurface units, even a small increase in the angle may lead to a rapid decrease in the diffraction efficiency and loss of imaging information. Moreover, the response spectral range of most metasurface holographies cannot be freely adjusted from ultraviolet to infrared. In this study, we prepare a quantum dot (QD)–polymer material system and introduce 1035 nm three-photon direct laser writing (DLW) technology to fabricate the QD–polymer metasurface for large field-of-view optical holography. Based on the stable light absorption characteristics and insensitivity to the angle of incident light of QDs, we achieve a binary amplitude-only holography with a large field of view of ±70°. Moreover, based on the quantum confinement effect of the QDs, the tunable broadband characteristic of the QD–polymer metasurface holography from the ultraviolet to near-infrared is demonstrated, and the binary amplitude-only holography also shows polarization independence. In addition, based on the QD–polymer material system, we can realize a Pancharatnam–Berry phase holography. DLW-processed QD–polymer metasurfaces have the potential to maintain a long-term stability. This study provides a material system and a versatile and flexible technology for realizing various nanoparticle–polymer metasurface holography with a large field of view and tunable broadband characteristics.
      </p>
      <p style="
        color:#333333;
@@ -4716,7 +4716,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Ultranarrow-linewidth wavelength-vortex metasurface holography..jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4729,7 +4729,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:16px;
      ">
        <b>Abstract (English):</b><br>
-       Depth imaging is vital for many emerging technologies with applications in augmented reality, robotics, gesture detection, and facial recognition. These applications, however, demand compact and low-power systems beyond the capabilities of state-of-the-art depth cameras. Here, we leverage ultrathin dielectric metasurfaces to demonstrate a solution that, with a single surface, replicates the functionality of a high-performance depth camera typically comprising a spatial light modulator, polarizer, and three lenses. Using cylindrical nano-scatterers that can arbitrarily modify the phase of an incident wavefront, our metasurface passively encodes two complementary optical responses to depth information in a scene with a single camera snapshot. By decoding the captured data in software, our system produces a fully reconstructed image and transverse depth map of three-dimensional scenes with a fractional ranging error of 1.7%. We demonstrate the first visible wavelength and polarization-insensitive metasurface depth camera, representing a significant form factor reduction for such systems.
+       Metasurface holograms harness multiple degrees of freedom of light to enhance information channel capacity. Traditionally, wavelength multiplexing holography with high-capacity information channel was only achievable through 3D volume holograms using Bragg diffraction. Here, we demonstrate ultranarrow-linewidth wavelength-vortex multiplexing holography in metasurface holograms. By applying elementary dispersion engineering, we develop a sparse k-vector–filtering aperture array in momentum space, enabling sharp wavelength selectivity combined with orbital angular momentum selectivity. Further leveraging transformer neural networks for the design of phase-only holograms, we showcase the reconstruction of up to 118 independent images from a single hologram, achieving a simulated ultranarrow linewidth of 2 nanometers within the visible range. We apply these developed metasurface holograms for holographic visual cryptography, attaining unprecedented security levels with an information rate over 2500 times higher than traditional methods. Our results open exciting avenues for the application of metasurface holograms in various fields, including 3D displays, holographic encryption, and optical artificial intelligence.
      </p>
      <p style="
        color:#333333;
@@ -4752,7 +4752,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4788,7 +4788,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4824,7 +4824,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4860,7 +4860,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4896,7 +4896,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4932,7 +4932,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -4968,7 +4968,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5004,7 +5004,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5040,7 +5040,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5076,7 +5076,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5112,7 +5112,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5148,7 +5148,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5184,7 +5184,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5220,7 +5220,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5256,7 +5256,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5292,7 +5292,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5328,7 +5328,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5364,7 +5364,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5400,7 +5400,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5436,7 +5436,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5472,7 +5472,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5508,7 +5508,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5544,7 +5544,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5580,7 +5580,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5616,7 +5616,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5652,7 +5652,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5688,7 +5688,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5724,7 +5724,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5760,7 +5760,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5796,7 +5796,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5832,7 +5832,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5868,7 +5868,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5904,7 +5904,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5946,7 +5946,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -5982,7 +5982,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6018,7 +6018,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6054,7 +6054,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6090,7 +6090,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6126,7 +6126,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6162,7 +6162,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6198,7 +6198,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6234,7 +6234,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6270,7 +6270,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6306,7 +6306,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6342,7 +6342,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6378,7 +6378,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6414,7 +6414,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6450,7 +6450,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6486,7 +6486,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6522,7 +6522,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6558,7 +6558,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6594,7 +6594,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6630,7 +6630,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6666,7 +6666,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6702,7 +6702,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6738,7 +6738,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6774,7 +6774,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6810,7 +6810,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6846,7 +6846,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6882,7 +6882,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6918,7 +6918,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6954,7 +6954,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -6990,7 +6990,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7033,7 +7033,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7069,7 +7069,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7105,7 +7105,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7141,7 +7141,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7177,7 +7177,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7213,7 +7213,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7249,7 +7249,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7285,7 +7285,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7321,7 +7321,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7357,7 +7357,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7393,7 +7393,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7429,7 +7429,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7465,7 +7465,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7501,7 +7501,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7537,7 +7537,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
@@ -7573,7 +7573,7 @@ We categorize the role of metasurfaces in **nine key imaging domains**:
        margin-bottom:18px;
      ">
        <img 
-         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.png" 
+         src="abstract image/Single-shot three-dimensional imaging with a metasurface depth camera.jpg" 
          alt="Graphical abstract"
          style="width:85%; max-width:650px; border-radius:8px;"
        >
